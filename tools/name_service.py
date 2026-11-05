@@ -2,11 +2,28 @@
 import json
 from namebot import ROOT, Engine, GenerationError
 
+# Keep source IDs in the data and use shorter names in Discord.
+PUBLIC_SETS = {
+    'egyptian_legacy': ('egyptian', 'Egyptian'),
+    'hindi_legacy': ('hindi', 'Hindi'),
+    'indian_legacy': ('indian', 'Indian'),
+    'native_american_legacy': ('native_american', 'Native American (English word generator)'),
+    'scottish': ('scottish', 'Scottish'),
+}
+
 class NameService:
     def __init__(self):
-        self.resources = {p.stem: json.loads(p.read_text(encoding='utf-8')) for p in sorted((ROOT/'data').glob('*.json'))}
+        self.resources = {}
+        self.resource_aliases = {}
+        for path in sorted((ROOT / 'data').glob('*.json')):
+            resource = json.loads(path.read_text(encoding='utf-8'))
+            public_id, label = PUBLIC_SETS.get(path.stem, (path.stem, resource['label']))
+            self.resources[public_id] = {**resource, 'label': label}
+            if public_id != path.stem:
+                self.resource_aliases[path.stem] = public_id
 
     def generate(self, resource, count=1, program=None, profile=None, gender=None):
+        resource = self.resource_aliases.get(resource, resource)
         if resource not in self.resources:
             raise GenerationError('Unknown set. Use /name_sets.')
         if type(count) is not int or not 1 <= count <= 20:
@@ -22,7 +39,7 @@ class NameService:
         programs={p['id']:p for p in r['programs']}
         if not program:
             # Curated resources explicitly supply one program per gender choice.
-            candidate=resource+'_'+(gender or 'all')
+            candidate=r['id']+'_'+(gender or 'all')
             if candidate in programs:
                 program=candidate
                 gender=None
@@ -44,6 +61,7 @@ class NameService:
         return [engine.generate(program,prompts) for _ in range(count)]
 
     def options(self, resource):
+        resource = self.resource_aliases.get(resource, resource)
         if resource not in self.resources:
             raise GenerationError('Unknown set. Use /name_sets.')
         r=self.resources[resource]
