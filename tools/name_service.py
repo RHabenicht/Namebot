@@ -4,7 +4,6 @@ from namebot import ROOT, Engine, GenerationError
 
 # Keep source IDs in the data and use shorter names in Discord.
 PUBLIC_SETS = {
-    'technical_english': ('technical_english', 'Geordi Gizmo'),
     'egyptian_legacy': ('egyptian', 'Egyptian'),
     'hindi_legacy': ('hindi', 'Hindi'),
     'indian_legacy': ('indian', 'Indian'),
@@ -16,24 +15,41 @@ class NameService:
     def __init__(self):
         self.resources = {}
         self.resource_aliases = {}
+        self.hidden_resources = {}
         for path in sorted((ROOT / 'data').glob('*.json')):
             resource = json.loads(path.read_text(encoding='utf-8'))
+            if path.stem == 'technical_english':
+                self.hidden_resources[path.stem] = {**resource, 'label': 'Geordi Gizmo'}
+                programs = {program['id']: program for program in resource['programs']}
+                self.resources['geordi_gizmo_company'] = {
+                    **resource, 'label': 'Geordi Gizmo Company',
+                    'programs': [programs['geordi_gizmo_company']],
+                }
+                self.resources['geordi_gizmo_technical'] = {
+                    **resource, 'label': 'Geordi Gizmo Technical',
+                    'programs': [programs['geordi_gizmo_science']],
+                }
+                continue
             public_id, label = PUBLIC_SETS.get(path.stem, (path.stem, resource['label']))
             self.resources[public_id] = {**resource, 'label': label}
             if public_id != path.stem:
                 self.resource_aliases[path.stem] = public_id
 
-    def generate(self, resource, count=1, program=None, profile=None, gender=None):
+    def _get_resource(self, resource):
         resource = self.resource_aliases.get(resource, resource)
-        if resource not in self.resources:
+        result = self.resources.get(resource) or self.hidden_resources.get(resource)
+        if result is None:
             raise GenerationError('Unknown set. Use /name_sets.')
+        return result
+
+    def generate(self, resource, count=1, program=None, profile=None, gender=None):
+        r = self._get_resource(resource)
         if type(count) is not int or not 1 <= count <= 20:
             raise GenerationError('Choose 1–20 names.')
         if gender not in (None,'male','female'):
             raise GenerationError('Choose male or female, or leave gender blank.')
         if program and profile:
             raise GenerationError('Choose a program or a profile, not both.')
-        r=self.resources[resource]
         engine=Engine(r)
         if profile:
             return [engine.profile_name(profile,gender) for _ in range(count)]
@@ -62,8 +78,5 @@ class NameService:
         return [engine.generate(program,prompts) for _ in range(count)]
 
     def options(self, resource):
-        resource = self.resource_aliases.get(resource, resource)
-        if resource not in self.resources:
-            raise GenerationError('Unknown set. Use /name_sets.')
-        r=self.resources[resource]
+        r = self._get_resource(resource)
         return r['label']+'\nPrograms: '+', '.join(p['id'] for p in r['programs'])+'\nProfiles: '+(', '.join(p['id'] for p in r['profiles']) or 'none')
