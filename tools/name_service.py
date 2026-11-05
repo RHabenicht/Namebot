@@ -57,15 +57,18 @@ class NameService:
             if public_id != path.stem:
                 self.resource_aliases[path.stem] = public_id
 
-    def _get_resource(self, resource):
-        resource = self.resource_aliases.get(resource, resource)
-        result = self.resources.get(resource) or self.hidden_resources.get(resource)
+    def get_resource(self, resource):
+        name = resource.strip().casefold()
+        resource_id = self.resource_aliases.get(name, name)
+        result = self.resources.get(resource_id) or self.hidden_resources.get(resource_id)
+        if result is None:
+            result = next((item for item in self.resources.values() if item['label'].casefold() == name), None)
         if result is None:
             raise GenerationError('Unknown set. Use /name_sets.')
         return result
 
     def generate(self, resource, count=1, program=None, profile=None, gender=None):
-        r = self._get_resource(resource)
+        r = self.get_resource(resource)
         if type(count) is not int or not 1 <= count <= 20:
             raise GenerationError('Choose 1–20 names.')
         if gender not in (None,'male','female'):
@@ -104,7 +107,7 @@ class NameService:
         return [engine.generate(program,prompts) for _ in range(count)]
 
     def options(self, resource):
-        r = self._get_resource(resource)
+        r = self.get_resource(resource)
         credit = SOURCE_CREDITS.get(r['id'])
         heading = r['label']
         if credit:

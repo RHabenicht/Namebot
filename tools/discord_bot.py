@@ -37,11 +37,23 @@ def make_client(service=None):
         return [app_commands.Choice(name=r['label'][:100],value=k) for k,r in service.resources.items() if current.casefold() in (k+' '+r['label']).casefold()][:25]
 
     async def program_choices(interaction,current):
-        r=service.resources.get(getattr(interaction.namespace,'set',None),{})
+        selected = getattr(interaction.namespace, 'set', None)
+        if not selected:
+            return []
+        try:
+            r = service.get_resource(selected)
+        except GenerationError:
+            return []
         return [app_commands.Choice(name=p['id'],value=p['id']) for p in r.get('programs',[]) if current.casefold() in p['id'].casefold()][:25]
 
     async def profile_choices(interaction,current):
-        r=service.resources.get(getattr(interaction.namespace,'set',None),{})
+        selected = getattr(interaction.namespace, 'set', None)
+        if not selected:
+            return []
+        try:
+            r = service.get_resource(selected)
+        except GenerationError:
+            return []
         return [app_commands.Choice(name=p['id'],value=p['id']) for p in r.get('profiles',[]) if current.casefold() in p['id'].casefold()][:25]
 
     @client.tree.command(name='names',description='Generate names from a selected naming set.')
