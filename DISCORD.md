@@ -1,21 +1,23 @@
 # SR1e-3e Namebot on Discord
 
-Namebot’s slash commands passed six offline tests. To try them in Discord, add Namebot to your Discord server and start the bot.
+## Quick start
 
-## Commands
+1. Type `/name_sets`, select the Namebot command from Discord’s suggestions, and send it. Namebot replies privately with the available lists.
+2. Type `/names`, select the Namebot command, and use **set** to pick a list. Use **count** to generate 1–20 results. The default is one.
+3. If you need to choose a **profile** or **program**, run `/name_options` with the same set. It shows the available choices and any source credit listed for that set. Choose either a profile or a program for a given roll.
+4. Set **private** to **True** if you want the generated names visible only to you. Results are posted in the channel by default.
 
-- `/name_sets`: list available data sets, visible only to you.
-- `/name_options set:english`: list program and profile identifiers, visible only to you.
-- `/names set:latin program:roman_male count:5`
-- `/names set:english profile:british gender:Female count:5`
-- `/names set:japanese program:japanese gender:Female count:5`
-- `/names set:old_norse gender:Female count:5`
-- `/names set:filipino gender:Female count:5`
-- `/names set:technical_english program:geordi_gizmo_company count:5`
+| To generate | Example |
+| --- | --- |
+| Five British English names | `/names set:english profile:british count:5` |
+| Three Japanese names | `/names set:japanese program:japanese count:3` |
+| Five Roman names | `/names set:latin program:roman_male count:5` |
+| Five company names | `/names set:geordi_gizmo_company count:5` |
+| Five technical names | `/names set:geordi_gizmo_technical count:5` |
 
-Set `private:True` to show generated results only to yourself. Public results are the default. Requests allow 1–20 names. Output that exceeds the message budget is returned as a UTF-8 text attachment. Mention parsing is disabled.
+Both Geordi Gizmo sets are by Joel Crook. The [source credits](README.md#name-source-credits) are also listed in the README.
 
-Program and profile controls are alternatives. Multiple-program sets require an explicit selection, except Hawaiian, Khmer and Filipino, which select their unfiltered or gendered program automatically. Legacy NAM personal-name programs compose full names. Old Norse maps the gender option to its source prompt. Other procedural programs retain their own gender rules: choose the appropriate program and leave gender blank. Profiles backed by explicit programs and the four English regional profiles are supported; generic legacy `default` profiles still require a program selection. Gang and Native American legacy components remain available through the local command line, not automatic Discord composition.
+Use **gender** when the selected set or program supports it. If a program has its own gender rules, pick the program and leave **gender** blank. Long results arrive as a UTF-8 text attachment.
 
 ## Set up Namebot
 
