@@ -58,7 +58,7 @@ def make_client(service=None):
 
     @client.tree.command(name='name_sets',description='List available naming sets.')
     async def name_sets(interaction:discord.Interaction):
-        await send(interaction,'\n'.join(k+' — '+r['label'] for k,r in service.resources.items()),True)
+        await send(interaction,'\n'.join(resource['label'] for resource in service.resources.values()),True)
 
     @client.tree.command(name='name_options',description='List programs and profiles for a naming set.')
     @app_commands.rename(resource='set')
