@@ -1,0 +1,3927 @@
+{
+  "format": "sr-namebot/1",
+  "id": "ancient_greek",
+  "label": "Ancient Greek",
+  "language": "grc",
+  "kind": "language",
+  "status": "imported",
+  "profiles": [
+    {
+      "id": "default",
+      "label": "Ancient Greek",
+      "status": "source_labelled",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "family"
+      ]
+    }
+  ],
+  "pools": {
+    "given": [
+      {
+        "id": "given_8ce8d28e9dc4",
+        "value": "Acastus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_64a435088798",
+        "value": "Actaia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_cbcf09530f44",
+        "value": "Actoris",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2f27eab17d6d",
+        "value": "Admete",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_79ad25dde7d6",
+        "value": "Admetus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8d4055bedcf9",
+        "value": "Adrastus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_34c539cb7301",
+        "value": "Aeetes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_49d4748ba767",
+        "value": "Aegialeia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9284983f7c3d",
+        "value": "Aegialeus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d04746d69a20",
+        "value": "Aeolus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_504019651257",
+        "value": "Aerope",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f4cf9aae2b96",
+        "value": "Aeschylus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a434dcb93804",
+        "value": "Aethra",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b440c9082782",
+        "value": "Aethylla",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0860af87907a",
+        "value": "Agamemnon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_79173f79490c",
+        "value": "Aganippe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d5c80c6b9f04",
+        "value": "Aglaia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ae1eb03ee96d",
+        "value": "Aias Teucer",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a6b10483ff57",
+        "value": "Alastor",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2b5941c270bf",
+        "value": "Alcathous",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_431b6f32614f",
+        "value": "Alcestis",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_28eb4574a284",
+        "value": "Alcibiades",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_470fea7e114c",
+        "value": "Alcimede",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6adf0b69a90e",
+        "value": "Alcinoos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6cc850646c60",
+        "value": "Alcmene",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_60c7eeab4e2d",
+        "value": "Amphinome",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_fc6b004a18bc",
+        "value": "Anaximander",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4fc2aee2576e",
+        "value": "Anchises",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_188887d92295",
+        "value": "Androcles",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9f53c3dc5a84",
+        "value": "Anius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d6cd0221b82e",
+        "value": "Anthemion",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_52ab0e1b5b44",
+        "value": "Anticlea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_02ccb7592b97",
+        "value": "Antilochos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_71ebcc7495d6",
+        "value": "Antiphos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_faafe34fb688",
+        "value": "Arcesilaos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0fd4f6f4732e",
+        "value": "Archilocos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f15a8c567ab6",
+        "value": "Arete",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_93860a52d4d0",
+        "value": "Argus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e870647a3a72",
+        "value": "Aristophanes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_197b5762c28f",
+        "value": "Aristoteles",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5069ef36e8e9",
+        "value": "Arne",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_24ff0c9be43e",
+        "value": "Ascalaphos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1f5bf9a5f489",
+        "value": "Astinoos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a219fb729dae",
+        "value": "Astynome",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a38a3c79a944",
+        "value": "Astyoche",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_fbd9549f651f",
+        "value": "Autolye",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_df2e04744c8d",
+        "value": "Callianeira",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a4dd4df40909",
+        "value": "Canache",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a04a7b049443",
+        "value": "Castor",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_bef5476a4f3c",
+        "value": "Chalcipe",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f5e6e384a0db",
+        "value": "Charopos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_de1f792ca233",
+        "value": "Chione",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2cca141678f9",
+        "value": "Chloe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_483c001f8b9a",
+        "value": "Chromios",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_904630a8947c",
+        "value": "Circe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d28e4fa48bb1",
+        "value": "Clytemnestra",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5c717a48273e",
+        "value": "Clytie",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d267df87f91f",
+        "value": "Clytius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9f25d12f25d7",
+        "value": "Cocalas",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5e08661407ce",
+        "value": "Cratylus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_83fdf8c04e28",
+        "value": "Creon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c2cdb0e86069",
+        "value": "Crethon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9b2d9a454b56",
+        "value": "Creusa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4d5041bb78c7",
+        "value": "Cymodece",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_006a62644f9d",
+        "value": "Daedelus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f9deb410b79e",
+        "value": "Danae",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_72e55517f505",
+        "value": "Daphne",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_aff1cf0b244c",
+        "value": "Deianara",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6c3713458f2a",
+        "value": "Deicoon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1ae9779a803c",
+        "value": "Deidameia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_61332cc428b7",
+        "value": "Democoon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6d9c378ffd37",
+        "value": "Demosthenes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_52ab9dbf0a85",
+        "value": "Dido",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_80341e42343b",
+        "value": "Diogenes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f753a278a8f2",
+        "value": "Diomedes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_76add83a4582",
+        "value": "Diores",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0d20a87b8b85",
+        "value": "Dirce",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9e1984116789",
+        "value": "Dynamene",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_55ddacdae82b",
+        "value": "Echemnon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_afa54ef6d973",
+        "value": "Echepolos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_72e881cc19d8",
+        "value": "Eidyia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ba17336f5881",
+        "value": "Elephenor",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b3252c74d341",
+        "value": "Epistrophes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b4f29676499a",
+        "value": "Ereuthalion",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1834827de877",
+        "value": "Erginus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4e452df3141c",
+        "value": "Eriphyle",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_14f582480b61",
+        "value": "Eumelos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f653beaa0ebc",
+        "value": "Euneus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3022f806e4d9",
+        "value": "Eunos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9b245d1306fa",
+        "value": "Euripides",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_bdc6364fcad2",
+        "value": "Euryales",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_96ae72c0808d",
+        "value": "Eurymedon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1a62cb176216",
+        "value": "Eurynome",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_72b67df0644d",
+        "value": "Eurypylos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9cace27f9f69",
+        "value": "Eurystheus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ec33395c1b7d",
+        "value": "Galatea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6a8011749f3a",
+        "value": "Gorge",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_82f0295fb6e0",
+        "value": "Gorgias",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ef63943f6bef",
+        "value": "Haimon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_89e189bd100c",
+        "value": "Halia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8588ce1a9fe9",
+        "value": "Hecabe",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5af4a1cd7e39",
+        "value": "Helen",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a6e516afe6c6",
+        "value": "Heracles",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_10ccf1d1b371",
+        "value": "Heraclitus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_7d06c867bea7",
+        "value": "Hermagoras",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_400c508b66f9",
+        "value": "Herodotus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9c83776befa6",
+        "value": "Hesione",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_66eff0a9556a",
+        "value": "Hicteon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e35494f43924",
+        "value": "Hiera",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a4a751194a08",
+        "value": "Hippolytus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_304531b81bf9",
+        "value": "Hypsenor",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5139ad00d1d9",
+        "value": "Hypsipyle",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_202e19e7d92e",
+        "value": "Ialmenos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2942c37dada5",
+        "value": "Ianassa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_732cc79c363a",
+        "value": "Iaria",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_85391287ec98",
+        "value": "Iasus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_21d9ed9415aa",
+        "value": "Idaios",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9e58a4f009d9",
+        "value": "Idomeneus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_57d5e9881e89",
+        "value": "Iolaus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0e1becf22316",
+        "value": "Iphicus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_099190bac00d",
+        "value": "Iphitos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a6825f448df6",
+        "value": "Laertes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0d5eaef8bc5a",
+        "value": "Lampos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8c18fa6ae10b",
+        "value": "Laodice",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b69109170d59",
+        "value": "Leda",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_aa2a8fba57bd",
+        "value": "Leitos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_cec9a650b3ab",
+        "value": "Leucas",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_05d5341c1f98",
+        "value": "Leucippe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_aadc3d045aff",
+        "value": "Limnoraea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_878952881c9a",
+        "value": "Longinus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_7865135cecec",
+        "value": "Lycomedes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_06f1624b7eb7",
+        "value": "Maera",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_988e716d7ad3",
+        "value": "Mante",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2c081497948b",
+        "value": "Manto",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_41921fec3cdb",
+        "value": "Mecisteus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f6a59ab7ded9",
+        "value": "Meda",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0393be0d12a7",
+        "value": "Megamede",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_19712977b766",
+        "value": "Megara",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2d7237119e58",
+        "value": "Meges",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_58aee7441ca0",
+        "value": "Melantho",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e5e60bf0de81",
+        "value": "Melite",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b0f0c9f57ebf",
+        "value": "Menelau",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f238fe4626bd",
+        "value": "Menestheus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a319444d14e2",
+        "value": "Meriones",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4273705a84c9",
+        "value": "Metaneira",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5d8ea9e68e1d",
+        "value": "Midas",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_558062991853",
+        "value": "Mynes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b0988db01fed",
+        "value": "Nacippe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "given_6a3f69701a32",
+        "value": "Nemertes",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_be8d25d11876",
+        "value": "Nesaea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8fab2c536197",
+        "value": "Nestor",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_399bb5b02f88",
+        "value": "Nineus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b0841fbebf77",
+        "value": "Odysseus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_7a2621891cb3",
+        "value": "Oedipus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_70b3f6fceb53",
+        "value": "Oeneus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3f006c878024",
+        "value": "Oenopion",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5e6e06f62fb4",
+        "value": "Orithyia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_291ce7ec991f",
+        "value": "Orsilochos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ddc4d317624f",
+        "value": "Otionia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b178deee936f",
+        "value": "Panope",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f32c40322fa4",
+        "value": "Panthoos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8f517da5bfe1",
+        "value": "Paphos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_7de2bd42397d",
+        "value": "Peiros",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_60487d281e85",
+        "value": "Pelasgon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0e6d51b92df4",
+        "value": "Peleus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_472a332b26e3",
+        "value": "Peneleus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c84a74e780eb",
+        "value": "Penthesilia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_25035e695232",
+        "value": "Periboea",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE",
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "given_ee268071dcc2",
+        "value": "Perimede",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4215cfb09cd4",
+        "value": "Periopis",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_dc69d2a34e74",
+        "value": "Pero",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3b3cd0ecf8b8",
+        "value": "Phaidimos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ea0cac6dd1c7",
+        "value": "Phaistos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_cb68b4da75cd",
+        "value": "Phegeus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c87a0151bceb",
+        "value": "Phereclos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_fff0e1811d22",
+        "value": "Pherusa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4da1d8ee29f8",
+        "value": "Philemon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c6ad18a16ebd",
+        "value": "Philomele",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_55f9bde4e78d",
+        "value": "Philomeleides",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9680ddcaee88",
+        "value": "Phyleus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4eba4b53245f",
+        "value": "Pittheus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e62bb573cd80",
+        "value": "Platon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_cb7f8a966348",
+        "value": "Plotinus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d42a13e8bd77",
+        "value": "Podarcos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_620a4e5c6441",
+        "value": "Polydeuces",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3cd129ab8d97",
+        "value": "Polyeides",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0b5a933f6831",
+        "value": "Polymede",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3256a60a5cad",
+        "value": "Polymele",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2ba0845be732",
+        "value": "Polypheme",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b224295b53ea",
+        "value": "Polyxena",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c9d46f7be29c",
+        "value": "Priam",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e32e20411a6a",
+        "value": "Protagoras",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8c5d1dd76a74",
+        "value": "Prote",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_32c2d51c1102",
+        "value": "Protheoenor",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b8ebcf28cd48",
+        "value": "Protogoria",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ecccc9b2b848",
+        "value": "Pylaimenos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_88c12e047934",
+        "value": "Pythagoras",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6a2f0eb9980b",
+        "value": "Scarphe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_dca4ea976ce0",
+        "value": "Schedios",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a2fcff3e658e",
+        "value": "Sibyl",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3129c7e8e434",
+        "value": "Socrates",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c737ac763316",
+        "value": "Speio",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f89c6f4d55af",
+        "value": "Sthenelos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_af12e9d19880",
+        "value": "Strophios",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c2b96701daaa",
+        "value": "Tecmessa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a77b8f0534cf",
+        "value": "Tecton",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_587595a44a7c",
+        "value": "Telamon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e700ec7c6df2",
+        "value": "Telopelemus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a0d57bb55c53",
+        "value": "Thaleia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_fce530c62d50",
+        "value": "Theano",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_20953d9106d0",
+        "value": "Thepolemas",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2023103e7463",
+        "value": "Theseus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_45754549d6d9",
+        "value": "Thespius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c4933e80ecdf",
+        "value": "Thoas",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4750a1639dd2",
+        "value": "Thoe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e09fd9cd6f82",
+        "value": "Thoon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_91fb7dcd7fb0",
+        "value": "Thrasymedes",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0601956248cb",
+        "value": "Thucydides",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e3e37272cd70",
+        "value": "Thymoites",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_32c260dfcc47",
+        "value": "Tiresias",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3d879821e18f",
+        "value": "Tyndareus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1b739188957e",
+        "value": "Ucalegon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_34d9aacfbb68",
+        "value": "Xanthippe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1c0630331665",
+        "value": "Xanthos",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d5182737cb3a",
+        "value": "Xenoclea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_885e156094f3",
+        "value": "Zeno",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ],
+    "family": [
+      {
+        "id": "family_51c791e4cd6a",
+        "value": "",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Ancient Greek.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "ancient_greek",
+      "source": "Ancient Greek.nam",
+      "entrypoint": null,
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "ancient_greek/MALE": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_a6b10483ff57",
+            "given_d6cd0221b82e",
+            "given_71ebcc7495d6",
+            "given_faafe34fb688",
+            "given_0fd4f6f4732e",
+            "given_24ff0c9be43e",
+            "given_1f5bf9a5f489",
+            "given_f5e6e384a0db",
+            "given_483c001f8b9a",
+            "given_d267df87f91f",
+            "given_c2cdb0e86069",
+            "given_6c3713458f2a",
+            "given_61332cc428b7",
+            "given_76add83a4582",
+            "given_55ddacdae82b",
+            "given_afa54ef6d973",
+            "given_ba17336f5881",
+            "given_b3252c74d341",
+            "given_b4f29676499a",
+            "given_3022f806e4d9",
+            "given_bdc6364fcad2",
+            "given_96ae72c0808d",
+            "given_72b67df0644d",
+            "given_ef63943f6bef",
+            "given_66eff0a9556a",
+            "given_304531b81bf9",
+            "given_202e19e7d92e",
+            "given_21d9ed9415aa",
+            "given_0e1becf22316",
+            "given_099190bac00d",
+            "given_8c18fa6ae10b",
+            "given_0d5eaef8bc5a",
+            "given_aa2a8fba57bd",
+            "given_cec9a650b3ab",
+            "given_41921fec3cdb",
+            "given_2d7237119e58",
+            "given_a319444d14e2",
+            "given_558062991853",
+            "given_399bb5b02f88",
+            "given_291ce7ec991f",
+            "given_f32c40322fa4",
+            "given_7de2bd42397d",
+            "given_60487d281e85",
+            "given_472a332b26e3",
+            "given_ea0cac6dd1c7",
+            "given_cb68b4da75cd",
+            "given_c87a0151bceb",
+            "given_d42a13e8bd77",
+            "given_3cd129ab8d97",
+            "given_32c2d51c1102",
+            "given_ecccc9b2b848",
+            "given_dca4ea976ce0",
+            "given_f89c6f4d55af",
+            "given_af12e9d19880",
+            "given_a77b8f0534cf",
+            "given_20953d9106d0",
+            "given_e09fd9cd6f82",
+            "given_e3e37272cd70",
+            "given_1b739188957e",
+            "given_1c0630331665",
+            "given_8d4055bedcf9",
+            "given_9284983f7c3d",
+            "given_f753a278a8f2",
+            "given_2023103e7463",
+            "given_f238fe4626bd",
+            "given_70b3f6fceb53",
+            "given_6a8011749f3a",
+            "given_a6e516afe6c6",
+            "given_93860a52d4d0",
+            "given_9e58a4f009d9",
+            "given_9f53c3dc5a84",
+            "given_9680ddcaee88",
+            "given_8ce8d28e9dc4",
+            "given_a6825f448df6",
+            "given_b0841fbebf77",
+            "given_5139ad00d1d9",
+            "given_f653beaa0ebc",
+            "given_55f9bde4e78d",
+            "given_2b5941c270bf",
+            "given_0860af87907a",
+            "given_1834827de877",
+            "given_6adf0b69a90e",
+            "given_f15a8c567ab6",
+            "given_79ad25dde7d6",
+            "given_431b6f32614f",
+            "given_14f582480b61",
+            "given_0e6d51b92df4",
+            "given_8fab2c536197",
+            "given_02ccb7592b97",
+            "given_91fb7dcd7fb0",
+            "given_587595a44a7c",
+            "given_25035e695232",
+            "given_ae1eb03ee96d",
+            "given_7865135cecec",
+            "given_3d879821e18f",
+            "given_a04a7b049443",
+            "given_620a4e5c6441",
+            "given_b0f0c9f57ebf",
+            "given_83fdf8c04e28",
+            "given_32c260dfcc47",
+            "given_2c081497948b",
+            "given_6cc850646c60",
+            "given_45754549d6d9",
+            "given_0393be0d12a7",
+            "given_9cace27f9f69",
+            "given_2f27eab17d6d",
+            "given_4eba4b53245f",
+            "given_a4a751194a08",
+            "given_c9d46f7be29c",
+            "given_8588ce1a9fe9",
+            "given_d04746d69a20",
+            "given_52ab9dbf0a85",
+            "given_3f006c878024",
+            "given_34c539cb7301",
+            "given_bef5476a4f3c",
+            "given_8f517da5bfe1",
+            "given_85391287ec98",
+            "given_4fc2aee2576e",
+            "given_3b3cd0ecf8b8",
+            "given_5d8ea9e68e1d",
+            "given_e700ec7c6df2",
+            "given_57d5e9881e89",
+            "given_19712977b766",
+            "given_c4933e80ecdf",
+            "given_9f25d12f25d7",
+            "given_006a62644f9d",
+            "given_28eb4574a284",
+            "given_e62bb573cd80",
+            "given_3129c7e8e434",
+            "given_197b5762c28f",
+            "given_6d9c378ffd37",
+            "given_80341e42343b",
+            "given_5e08661407ce",
+            "given_82f0295fb6e0",
+            "given_4da1d8ee29f8",
+            "given_0601956248cb",
+            "given_400c508b66f9",
+            "given_cb7f8a966348",
+            "given_10ccf1d1b371",
+            "given_885e156094f3",
+            "given_e32e20411a6a",
+            "given_7d06c867bea7",
+            "given_878952881c9a",
+            "given_fc6b004a18bc",
+            "given_88c12e047934",
+            "given_7a2621891cb3",
+            "given_188887d92295",
+            "given_e870647a3a72",
+            "given_9b245d1306fa",
+            "given_f4cf9aae2b96"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "ancient_greek/FEMALE": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_52ab0e1b5b44",
+            "given_d5182737cb3a",
+            "given_f6a59ab7ded9",
+            "given_aff1cf0b244c",
+            "given_49d4748ba767",
+            "given_d28e4fa48bb1",
+            "given_25035e695232",
+            "given_9c83776befa6",
+            "given_b69109170d59",
+            "given_5af4a1cd7e39",
+            "given_34d9aacfbb68",
+            "given_2cca141678f9",
+            "given_72e55517f505",
+            "given_904630a8947c",
+            "given_5e6e06f62fb4",
+            "given_b0988db01fed",
+            "given_c84a74e780eb",
+            "given_a2fcff3e658e",
+            "given_72e881cc19d8",
+            "given_64a435088798",
+            "given_cbcf09530f44",
+            "given_504019651257",
+            "given_a434dcb93804",
+            "given_b440c9082782",
+            "given_79173f79490c",
+            "given_d5c80c6b9f04",
+            "given_470fea7e114c",
+            "given_60c7eeab4e2d",
+            "given_5069ef36e8e9",
+            "given_a219fb729dae",
+            "given_a38a3c79a944",
+            "given_fbd9549f651f",
+            "given_df2e04744c8d",
+            "given_a4dd4df40909",
+            "given_de1f792ca233",
+            "given_5c717a48273e",
+            "given_9b2d9a454b56",
+            "given_4d5041bb78c7",
+            "given_f9deb410b79e",
+            "given_1ae9779a803c",
+            "given_0d20a87b8b85",
+            "given_9e1984116789",
+            "given_4e452df3141c",
+            "given_1a62cb176216",
+            "given_ec33395c1b7d",
+            "given_89e189bd100c",
+            "given_e35494f43924",
+            "given_2942c37dada5",
+            "given_732cc79c363a",
+            "given_05d5341c1f98",
+            "given_aadc3d045aff",
+            "given_988e716d7ad3",
+            "given_06f1624b7eb7",
+            "given_58aee7441ca0",
+            "given_e5e60bf0de81",
+            "given_4273705a84c9",
+            "given_6a3f69701a32",
+            "given_be8d25d11876",
+            "given_ddc4d317624f",
+            "given_b178deee936f",
+            "given_ee268071dcc2",
+            "given_4215cfb09cd4",
+            "given_dc69d2a34e74",
+            "given_fff0e1811d22",
+            "given_c6ad18a16ebd",
+            "given_0b5a933f6831",
+            "given_3256a60a5cad",
+            "given_2ba0845be732",
+            "given_b224295b53ea",
+            "given_8c5d1dd76a74",
+            "given_b8ebcf28cd48",
+            "given_6a2f0eb9980b",
+            "given_c737ac763316",
+            "given_c2b96701daaa",
+            "given_a0d57bb55c53",
+            "given_fce530c62d50",
+            "given_4750a1639dd2"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "ancient_greek/LAST NAMES": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_51c791e4cd6a"
+          ],
+          "weighting": "uniform_unique_entries"
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "Ancient Greek.nam",
+      "sha256": "09f6df7516e48364534b6d8abd1abfba66908003f445a2f68b40a18365d3a3d2",
+      "encoding": "UTF-8"
+    }
+  ]
+}

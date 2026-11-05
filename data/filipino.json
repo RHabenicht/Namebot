@@ -1,0 +1,1569 @@
+{
+  "id": "filipino",
+  "label": "Filipino / Philippines",
+  "language": "und",
+  "kind": "category",
+  "scope": "Contemporary Philippine naming sample across language origins; not exclusively Tagalog or Filipino-language names",
+  "notes": [
+    "The default follows a common birth-name pattern. It does not cover every Philippine community, legal circumstance or married-name choice.",
+    "Maternal and paternal surname slots draw from the same family pool without duplicating storage. Each multiword surname is kept intact.",
+    "Baby-name data reflects 2023 births; older examples are sourced separately. Uniform weights are not population frequencies."
+  ],
+  "format": "sr-namebot/1",
+  "status": "imported",
+  "profiles": [
+    {
+      "id": "filipino_all",
+      "label": "Filipino / Philippines — unfiltered",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "maternal_family",
+        "family"
+      ],
+      "program": "filipino_all",
+      "gender_filter": null,
+      "unknown_gender_policy": "include"
+    },
+    {
+      "id": "filipino_male",
+      "label": "Filipino / Philippines — male",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "maternal_family",
+        "family"
+      ],
+      "program": "filipino_male",
+      "gender_filter": "male",
+      "unknown_gender_policy": "exclude"
+    },
+    {
+      "id": "filipino_female",
+      "label": "Filipino / Philippines — female",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "maternal_family",
+        "family"
+      ],
+      "program": "filipino_female",
+      "gender_filter": "female",
+      "unknown_gender_policy": "exclude"
+    }
+  ],
+  "pools": {
+    "given": [
+      {
+        "id": "given_dd3f456e3208",
+        "value": "Althea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_0311e788b2d4",
+        "value": "Angel",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_41bf60bf755e",
+        "value": "Angela",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_070f913b0279",
+        "value": "Ayesha",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_2cca141678f9",
+        "value": "Chloe",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_3c71c024188b",
+        "value": "Corazon",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_29f4a8a9514f",
+        "value": "Ethan",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_6d532884a5b5",
+        "value": "Ezekiel",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_d3f20f6f35c3",
+        "value": "Gabriel",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_2527eaabf6e7",
+        "value": "Jacob",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_18711261824e",
+        "value": "James",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_57b678d98821",
+        "value": "Jayden",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_9b0b6032eea9",
+        "value": "Jose Mario",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_0053f669de35",
+        "value": "Joshua",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_d95aa3dd1347",
+        "value": "Liam",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_0f8d1a52f194",
+        "value": "Manolita",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_b1df1514b88e",
+        "value": "Manolito",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_5766cfaa22df",
+        "value": "Maria",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_abbaa1f8a4c9",
+        "value": "Matthew",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_ec69e230b7dc",
+        "value": "Miguel",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_8826ccaf3531",
+        "value": "Nathalie",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_af3cee7959cb",
+        "value": "Nathan",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_1bbb52971ed6",
+        "value": "Nathaniel",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_1f89b6c129c1",
+        "value": "Noah",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_3064dfcf0313",
+        "value": "Princess",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_1ec8f7d681b0",
+        "value": "Rosario",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_141a1283de23",
+        "value": "Samantha",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_e3b4a47e1d80",
+        "value": "Sofia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_5238d890c7d7",
+        "value": "Zia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_330a945db5dc",
+        "value": "Zoey",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      }
+    ],
+    "family": [
+      {
+        "id": "family_5c21a69666ed",
+        "value": "Aquino",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_c86a3441f4e1",
+        "value": "Bautista",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_5ca82069a7f8",
+        "value": "Castillo",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_a6d0653dc5b6",
+        "value": "Castro",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_df6551adc030",
+        "value": "Cruz",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_8d9d8af7cb81",
+        "value": "de Guzman",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_dd61154867f0",
+        "value": "dela Cruz",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_4ec3289888af",
+        "value": "Fernandez",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_aa153c1a90ee",
+        "value": "Flores",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_c04d49449c1a",
+        "value": "Francisco",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_e76a80a8f9da",
+        "value": "Garcia",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_804b118557c3",
+        "value": "Gonzales",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_547cd517828d",
+        "value": "Lopez",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_ff26b7fc31a9",
+        "value": "Mendoza",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_8e53bb3a1567",
+        "value": "Perez",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_f0fc70561ccd",
+        "value": "Ramos",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_ccd32388f587",
+        "value": "Reyes",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_d1ba0efeac6b",
+        "value": "Rivera",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_1b57b96aa021",
+        "value": "Santos",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_019be01a04e9",
+        "value": "Villanueva",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "filipino_source.json#ph_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "ph_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "filipino_all",
+      "source": "filipino_source.json",
+      "entrypoint": "filipino_all/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "filipino_all/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_1bbb52971ed6",
+            "given_d3f20f6f35c3",
+            "given_2527eaabf6e7",
+            "given_6d532884a5b5",
+            "given_29f4a8a9514f",
+            "given_af3cee7959cb",
+            "given_abbaa1f8a4c9",
+            "given_d95aa3dd1347",
+            "given_57b678d98821",
+            "given_1f89b6c129c1",
+            "given_dd3f456e3208",
+            "given_0311e788b2d4",
+            "given_330a945db5dc",
+            "given_2cca141678f9",
+            "given_8826ccaf3531",
+            "given_e3b4a47e1d80",
+            "given_5238d890c7d7",
+            "given_3064dfcf0313",
+            "given_141a1283de23",
+            "given_070f913b0279",
+            "given_9b0b6032eea9",
+            "given_ec69e230b7dc",
+            "given_b1df1514b88e",
+            "given_18711261824e",
+            "given_0053f669de35",
+            "given_5766cfaa22df",
+            "given_0f8d1a52f194",
+            "given_3c71c024188b",
+            "given_1ec8f7d681b0",
+            "given_41bf60bf755e"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_all/maternal_family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_dd61154867f0",
+            "family_e76a80a8f9da",
+            "family_ccd32388f587",
+            "family_f0fc70561ccd",
+            "family_ff26b7fc31a9",
+            "family_1b57b96aa021",
+            "family_aa153c1a90ee",
+            "family_804b118557c3",
+            "family_c86a3441f4e1",
+            "family_019be01a04e9",
+            "family_4ec3289888af",
+            "family_df6551adc030",
+            "family_8d9d8af7cb81",
+            "family_547cd517828d",
+            "family_8e53bb3a1567",
+            "family_5ca82069a7f8",
+            "family_c04d49449c1a",
+            "family_d1ba0efeac6b",
+            "family_5c21a69666ed",
+            "family_a6d0653dc5b6"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_all/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_dd61154867f0",
+            "family_e76a80a8f9da",
+            "family_ccd32388f587",
+            "family_f0fc70561ccd",
+            "family_ff26b7fc31a9",
+            "family_1b57b96aa021",
+            "family_aa153c1a90ee",
+            "family_804b118557c3",
+            "family_c86a3441f4e1",
+            "family_019be01a04e9",
+            "family_4ec3289888af",
+            "family_df6551adc030",
+            "family_8d9d8af7cb81",
+            "family_547cd517828d",
+            "family_8e53bb3a1567",
+            "family_5ca82069a7f8",
+            "family_c04d49449c1a",
+            "family_d1ba0efeac6b",
+            "family_5c21a69666ed",
+            "family_a6d0653dc5b6"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_all/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "filipino_all/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "filipino_all/maternal_family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "filipino_all/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "filipino_male",
+      "source": "filipino_source.json",
+      "entrypoint": "filipino_male/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "filipino_male/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_1bbb52971ed6",
+            "given_d3f20f6f35c3",
+            "given_2527eaabf6e7",
+            "given_6d532884a5b5",
+            "given_29f4a8a9514f",
+            "given_af3cee7959cb",
+            "given_abbaa1f8a4c9",
+            "given_d95aa3dd1347",
+            "given_57b678d98821",
+            "given_1f89b6c129c1",
+            "given_9b0b6032eea9",
+            "given_ec69e230b7dc",
+            "given_b1df1514b88e",
+            "given_18711261824e",
+            "given_0053f669de35"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_male/maternal_family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_dd61154867f0",
+            "family_e76a80a8f9da",
+            "family_ccd32388f587",
+            "family_f0fc70561ccd",
+            "family_ff26b7fc31a9",
+            "family_1b57b96aa021",
+            "family_aa153c1a90ee",
+            "family_804b118557c3",
+            "family_c86a3441f4e1",
+            "family_019be01a04e9",
+            "family_4ec3289888af",
+            "family_df6551adc030",
+            "family_8d9d8af7cb81",
+            "family_547cd517828d",
+            "family_8e53bb3a1567",
+            "family_5ca82069a7f8",
+            "family_c04d49449c1a",
+            "family_d1ba0efeac6b",
+            "family_5c21a69666ed",
+            "family_a6d0653dc5b6"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_male/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_dd61154867f0",
+            "family_e76a80a8f9da",
+            "family_ccd32388f587",
+            "family_f0fc70561ccd",
+            "family_ff26b7fc31a9",
+            "family_1b57b96aa021",
+            "family_aa153c1a90ee",
+            "family_804b118557c3",
+            "family_c86a3441f4e1",
+            "family_019be01a04e9",
+            "family_4ec3289888af",
+            "family_df6551adc030",
+            "family_8d9d8af7cb81",
+            "family_547cd517828d",
+            "family_8e53bb3a1567",
+            "family_5ca82069a7f8",
+            "family_c04d49449c1a",
+            "family_d1ba0efeac6b",
+            "family_5c21a69666ed",
+            "family_a6d0653dc5b6"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_male/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "filipino_male/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "filipino_male/maternal_family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "filipino_male/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "filipino_female",
+      "source": "filipino_source.json",
+      "entrypoint": "filipino_female/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "filipino_female/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_dd3f456e3208",
+            "given_0311e788b2d4",
+            "given_330a945db5dc",
+            "given_2cca141678f9",
+            "given_8826ccaf3531",
+            "given_e3b4a47e1d80",
+            "given_5238d890c7d7",
+            "given_3064dfcf0313",
+            "given_141a1283de23",
+            "given_070f913b0279",
+            "given_5766cfaa22df",
+            "given_0f8d1a52f194",
+            "given_3c71c024188b",
+            "given_1ec8f7d681b0",
+            "given_41bf60bf755e"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_female/maternal_family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_dd61154867f0",
+            "family_e76a80a8f9da",
+            "family_ccd32388f587",
+            "family_f0fc70561ccd",
+            "family_ff26b7fc31a9",
+            "family_1b57b96aa021",
+            "family_aa153c1a90ee",
+            "family_804b118557c3",
+            "family_c86a3441f4e1",
+            "family_019be01a04e9",
+            "family_4ec3289888af",
+            "family_df6551adc030",
+            "family_8d9d8af7cb81",
+            "family_547cd517828d",
+            "family_8e53bb3a1567",
+            "family_5ca82069a7f8",
+            "family_c04d49449c1a",
+            "family_d1ba0efeac6b",
+            "family_5c21a69666ed",
+            "family_a6d0653dc5b6"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_female/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_dd61154867f0",
+            "family_e76a80a8f9da",
+            "family_ccd32388f587",
+            "family_f0fc70561ccd",
+            "family_ff26b7fc31a9",
+            "family_1b57b96aa021",
+            "family_aa153c1a90ee",
+            "family_804b118557c3",
+            "family_c86a3441f4e1",
+            "family_019be01a04e9",
+            "family_4ec3289888af",
+            "family_df6551adc030",
+            "family_8d9d8af7cb81",
+            "family_547cd517828d",
+            "family_8e53bb3a1567",
+            "family_5ca82069a7f8",
+            "family_c04d49449c1a",
+            "family_d1ba0efeac6b",
+            "family_5c21a69666ed",
+            "family_a6d0653dc5b6"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "filipino_female/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "filipino_female/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "filipino_female/maternal_family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "filipino_female/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "filipino_source.json",
+      "encoding": "UTF-8",
+      "sha256": "087d1899c6114d1d01fd8027778bddce1d09139a3f0d27e92691555d08c2d05c",
+      "references": [
+        {
+          "id": "ph_given",
+          "title": "Philippine Statistics Authority: Most Common Baby Names of 2023",
+          "url": "https://psa.gov.ph/sites/default/files/infographics/4_2023%20Common%20Baby%20Names_Infographics-signed.pdf",
+          "accessed": "2026-11-02",
+          "coverage": "Top ten registered names per sex in 2023, exact spellings"
+        },
+        {
+          "id": "ph_family",
+          "title": "Wikipedia contributors: List of most common surnames in Asian countries, Philippines",
+          "url": "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Asia#Philippines",
+          "accessed": "2026-11-02",
+          "coverage": "Twenty listed surname spellings; rankings and origin assertions are not imported.",
+          "license": "CC BY-SA 4.0; selected name facts only; attribution and source links retained"
+        },
+        {
+          "id": "ph_conventions",
+          "title": "Nina Evason: Filipino Naming, Cultural Atlas",
+          "url": "https://theculturalatlas.org/filipino-culture/filipino-culture-naming",
+          "accessed": "2026-11-02",
+          "coverage": "Common personal + maternal-family + paternal-family pattern, plus named examples"
+        }
+      ]
+    }
+  ],
+  "locale": "fil-PH"
+}

@@ -1,0 +1,1825 @@
+{
+  "id": "khmer",
+  "label": "Cambodian / Khmer",
+  "language": "km",
+  "kind": "language",
+  "scope": "Romanized Khmer naming sample; not all Cambodian ethnic naming traditions",
+  "notes": [
+    "Family element precedes given element. Family elements can be inherited surnames or patronymics; the generator does not infer genealogy.",
+    "Romanized spellings are retained as selected, without invented Khmer-script transcriptions or translations.",
+    "Most given-name entries have unknown gender in the source table. Empty genders means unclassified, not verified unisex. Gender-filtered output excludes these entries."
+  ],
+  "format": "sr-namebot/1",
+  "status": "imported",
+  "profiles": [
+    {
+      "id": "khmer_all",
+      "label": "Cambodian / Khmer — unfiltered",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "family",
+        "given"
+      ],
+      "program": "khmer_all",
+      "gender_filter": null,
+      "unknown_gender_policy": "include"
+    },
+    {
+      "id": "khmer_male",
+      "label": "Cambodian / Khmer — male",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "family",
+        "given"
+      ],
+      "program": "khmer_male",
+      "gender_filter": "male",
+      "unknown_gender_policy": "exclude"
+    },
+    {
+      "id": "khmer_female",
+      "label": "Cambodian / Khmer — female",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "family",
+        "given"
+      ],
+      "program": "khmer_female",
+      "gender_filter": "female",
+      "unknown_gender_policy": "exclude"
+    }
+  ],
+  "pools": {
+    "given": [
+      {
+        "id": "given_0e4b86b6f6a1",
+        "value": "Bopha",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_1ebc23efabdb",
+        "value": "Borey",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_056914195aa1",
+        "value": "Botum",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_05853b247902",
+        "value": "Chantha",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_1cee7f3ac92b",
+        "value": "Chantrea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_445a84655acb",
+        "value": "Chea",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_ce67f085902b",
+        "value": "Cheata",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_bc7ddc24ed97",
+        "value": "Chenda",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_5aa9768c3da2",
+        "value": "Chheng",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_9d991380591c",
+        "value": "Chhieng",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_d3f2524f6393",
+        "value": "Chhuon",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_6f9110aee292",
+        "value": "Dara",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_ace77cb133e1",
+        "value": "Khan",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_9bfec9779fb3",
+        "value": "Kosal",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_1e3d26843265",
+        "value": "Kunthea",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_ed7e5e9ce202",
+        "value": "Lay",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_3386bc8a8f63",
+        "value": "Leng",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_801c4a255d8d",
+        "value": "Mali",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_488d7b175499",
+        "value": "Mey",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_e04a581e6e55",
+        "value": "Narong",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_b2a8881affd1",
+        "value": "Nary",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_5f67d27d88e0",
+        "value": "Nimol",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_c9a1ff095166",
+        "value": "Panha",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_0a175ffff71b",
+        "value": "Phalla",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_612cef64d767",
+        "value": "Pheareak",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_bd1a93419459",
+        "value": "Phirun",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_48edb3108489",
+        "value": "Phuong",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_78fe2209efb2",
+        "value": "Piseth",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_99928b5284f5",
+        "value": "Polin",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_40ab20a312f9",
+        "value": "Pov",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_490689b5399a",
+        "value": "Rasmey",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_cd5c9da555ed",
+        "value": "Rith",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_d194c656cee3",
+        "value": "Ry",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_ed917d232a56",
+        "value": "Sambath",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_75adbfb4c1e9",
+        "value": "Samnang",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_f1e84681ed54",
+        "value": "Samphors",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_db911c847244",
+        "value": "Sarith",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_fde92d8b42ea",
+        "value": "Saroeun",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_83c5b29d70c5",
+        "value": "Sopheap",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_db30f6184729",
+        "value": "Sorn",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_f148b13527ad",
+        "value": "Srey",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "given_e1f84936cab5",
+        "value": "Thravy",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_conventions"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_conventions",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      }
+    ],
+    "family": [
+      {
+        "id": "family_8d0fc7a666d4",
+        "value": "Bun",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_39c739cfcfba",
+        "value": "Chan",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_163a76821305",
+        "value": "Chap",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_a79e416dbd0d",
+        "value": "Chea",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_d0288d5a84e1",
+        "value": "Cheam",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_002ed5a46bc7",
+        "value": "Cheng",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_1225226c175a",
+        "value": "Chhay",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_c7add2bc979f",
+        "value": "Chin",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_ddcf9c2ce14c",
+        "value": "Dith",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_aae75297ee65",
+        "value": "Duong",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_1d1e14b80153",
+        "value": "Heng",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_5c175792acc3",
+        "value": "Kang",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_abeba21a1f41",
+        "value": "Keo",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_b9e7b54aa4bd",
+        "value": "Khat",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_8970ecaf6ec3",
+        "value": "Khiev",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_af2993445f93",
+        "value": "Kim",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_28f68bd004cf",
+        "value": "Koy",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_5c212ce059d6",
+        "value": "Lim",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_83c953b8a30f",
+        "value": "Long",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_f89373bfe991",
+        "value": "Mao",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_94e87f6ccdbb",
+        "value": "Meas",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_17368e3d4330",
+        "value": "Pen",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_5099d8a4b310",
+        "value": "Phan",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_917982c3cf3e",
+        "value": "Prak",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_a7bd7dd5c20e",
+        "value": "Ros",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_71f18292124e",
+        "value": "Seng",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_2a142b373aab",
+        "value": "Sok",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_7814501d67b8",
+        "value": "Tep",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_36da5dafad11",
+        "value": "Than",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "khmer_source.json#khmer_elements"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "khmer_elements",
+            "gender_basis": "not_specified"
+          }
+        ]
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "khmer_all",
+      "source": "khmer_source.json",
+      "entrypoint": "khmer_all/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "khmer_all/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_28f68bd004cf",
+            "family_abeba21a1f41",
+            "family_5c175792acc3",
+            "family_b9e7b54aa4bd",
+            "family_8970ecaf6ec3",
+            "family_af2993445f93",
+            "family_39c739cfcfba",
+            "family_163a76821305",
+            "family_002ed5a46bc7",
+            "family_1225226c175a",
+            "family_a79e416dbd0d",
+            "family_d0288d5a84e1",
+            "family_c7add2bc979f",
+            "family_aae75297ee65",
+            "family_ddcf9c2ce14c",
+            "family_36da5dafad11",
+            "family_7814501d67b8",
+            "family_917982c3cf3e",
+            "family_8d0fc7a666d4",
+            "family_17368e3d4330",
+            "family_5099d8a4b310",
+            "family_94e87f6ccdbb",
+            "family_f89373bfe991",
+            "family_a7bd7dd5c20e",
+            "family_5c212ce059d6",
+            "family_2a142b373aab",
+            "family_71f18292124e",
+            "family_1d1e14b80153",
+            "family_83c953b8a30f"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "khmer_all/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_056914195aa1",
+            "given_05853b247902",
+            "given_445a84655acb",
+            "given_ce67f085902b",
+            "given_5aa9768c3da2",
+            "given_9d991380591c",
+            "given_6f9110aee292",
+            "given_3386bc8a8f63",
+            "given_e04a581e6e55",
+            "given_5f67d27d88e0",
+            "given_48edb3108489",
+            "given_fde92d8b42ea",
+            "given_f148b13527ad",
+            "given_db30f6184729",
+            "given_1ebc23efabdb",
+            "given_bc7ddc24ed97",
+            "given_d3f2524f6393",
+            "given_ace77cb133e1",
+            "given_9bfec9779fb3",
+            "given_1e3d26843265",
+            "given_ed7e5e9ce202",
+            "given_801c4a255d8d",
+            "given_488d7b175499",
+            "given_b2a8881affd1",
+            "given_c9a1ff095166",
+            "given_78fe2209efb2",
+            "given_0a175ffff71b",
+            "given_612cef64d767",
+            "given_bd1a93419459",
+            "given_40ab20a312f9",
+            "given_490689b5399a",
+            "given_cd5c9da555ed",
+            "given_d194c656cee3",
+            "given_ed917d232a56",
+            "given_f1e84681ed54",
+            "given_75adbfb4c1e9",
+            "given_db911c847244",
+            "given_83c5b29d70c5",
+            "given_99928b5284f5",
+            "given_e1f84936cab5",
+            "given_0e4b86b6f6a1",
+            "given_1cee7f3ac92b"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "khmer_all/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "khmer_all/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "khmer_all/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "khmer_male",
+      "source": "khmer_source.json",
+      "entrypoint": "khmer_male/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "khmer_male/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_28f68bd004cf",
+            "family_abeba21a1f41",
+            "family_5c175792acc3",
+            "family_b9e7b54aa4bd",
+            "family_8970ecaf6ec3",
+            "family_af2993445f93",
+            "family_39c739cfcfba",
+            "family_163a76821305",
+            "family_002ed5a46bc7",
+            "family_1225226c175a",
+            "family_a79e416dbd0d",
+            "family_d0288d5a84e1",
+            "family_c7add2bc979f",
+            "family_aae75297ee65",
+            "family_ddcf9c2ce14c",
+            "family_36da5dafad11",
+            "family_7814501d67b8",
+            "family_917982c3cf3e",
+            "family_8d0fc7a666d4",
+            "family_17368e3d4330",
+            "family_5099d8a4b310",
+            "family_94e87f6ccdbb",
+            "family_f89373bfe991",
+            "family_a7bd7dd5c20e",
+            "family_5c212ce059d6",
+            "family_2a142b373aab",
+            "family_71f18292124e",
+            "family_1d1e14b80153",
+            "family_83c953b8a30f"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "khmer_male/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_83c5b29d70c5",
+            "given_99928b5284f5"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "khmer_male/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "khmer_male/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "khmer_male/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "khmer_female",
+      "source": "khmer_source.json",
+      "entrypoint": "khmer_female/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "khmer_female/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_28f68bd004cf",
+            "family_abeba21a1f41",
+            "family_5c175792acc3",
+            "family_b9e7b54aa4bd",
+            "family_8970ecaf6ec3",
+            "family_af2993445f93",
+            "family_39c739cfcfba",
+            "family_163a76821305",
+            "family_002ed5a46bc7",
+            "family_1225226c175a",
+            "family_a79e416dbd0d",
+            "family_d0288d5a84e1",
+            "family_c7add2bc979f",
+            "family_aae75297ee65",
+            "family_ddcf9c2ce14c",
+            "family_36da5dafad11",
+            "family_7814501d67b8",
+            "family_917982c3cf3e",
+            "family_8d0fc7a666d4",
+            "family_17368e3d4330",
+            "family_5099d8a4b310",
+            "family_94e87f6ccdbb",
+            "family_f89373bfe991",
+            "family_a7bd7dd5c20e",
+            "family_5c212ce059d6",
+            "family_2a142b373aab",
+            "family_71f18292124e",
+            "family_1d1e14b80153",
+            "family_83c953b8a30f"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "khmer_female/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_e1f84936cab5",
+            "given_0e4b86b6f6a1",
+            "given_1cee7f3ac92b"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "khmer_female/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "khmer_female/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "khmer_female/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "khmer_source.json",
+      "encoding": "UTF-8",
+      "sha256": "e5014535d7fda2a521fc27a52d99a724d58351444ab9c76342328065fcea52b3",
+      "references": [
+        {
+          "id": "khmer_elements",
+          "title": "Wikipedia contributors: Cambodian name",
+          "url": "https://en.wikipedia.org/wiki/Cambodian_name",
+          "accessed": "2026-11-02",
+          "coverage": "Selected entries in common-spellings columns; no gender is inferred from this table.",
+          "license": "CC BY-SA 4.0; selected name facts only; attribution and source links retained"
+        },
+        {
+          "id": "khmer_conventions",
+          "title": "Nina Evason: Cambodian Naming, Cultural Atlas",
+          "url": "https://theculturalatlas.org/cambodian-culture/cambodian-culture-naming",
+          "accessed": "2026-11-02",
+          "coverage": "Name order and explicitly gender-labelled examples"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2211 @@
+{
+  "format": "sr-namebot/1",
+  "id": "halfling",
+  "label": "Halfling",
+  "language": "und",
+  "kind": "category",
+  "status": "imported",
+  "profiles": [
+    {
+      "id": "default",
+      "label": "Halfling",
+      "status": "source_labelled",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "family"
+      ]
+    }
+  ],
+  "pools": {
+    "given": [
+      {
+        "id": "given_7ed27d50d4b1",
+        "value": "Achim",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ab73af1aed10",
+        "value": "Albie",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE",
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "given_6ea1d82fddad",
+        "value": "Alton",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e75dffddc2ee",
+        "value": "Amabelle",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a2f08dfedaf8",
+        "value": "Asham",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_95cc1922c7db",
+        "value": "Ashford",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_663dbfb71c97",
+        "value": "Astin",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b049632a60d3",
+        "value": "Barthony",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e67e32e96a23",
+        "value": "Beasley",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE",
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "given_35f539a84ebe",
+        "value": "Beaswell",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1e1e570ba7b0",
+        "value": "Bertik",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4a87bfb4b0dd",
+        "value": "Bertrad",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_37d63449f23a",
+        "value": "Blasco",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_702115a4a0fb",
+        "value": "Bredon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_77763c2aa011",
+        "value": "Briley",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9845c421e7d1",
+        "value": "Burgis",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f44a90c8f139",
+        "value": "Burke",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2cf69704b270",
+        "value": "Carruthers",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1532052c0f7b",
+        "value": "Chandry",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ffe41ccf18a0",
+        "value": "Chibald",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_37ae7066f91b",
+        "value": "Cibber",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_dbd99230df12",
+        "value": "Cottington",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9e51d6cc456c",
+        "value": "Crowley",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5bda41af8774",
+        "value": "Cubbardy",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_dcaeda7dcc36",
+        "value": "Dee",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c4039f2c9ec9",
+        "value": "Dekker",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9508c4e4a2f9",
+        "value": "Dendy",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_da3b0d52f68e",
+        "value": "Dobb",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_29c432fd4c38",
+        "value": "Drayton",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e0e365647361",
+        "value": "Dudney",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_beaf1bc75932",
+        "value": "Dugal",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6ea9e5a53fef",
+        "value": "Dunleary",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_55e9096df0bd",
+        "value": "Dyer",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d64e444e9bbf",
+        "value": "Eldren",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f41ce9d34442",
+        "value": "Ellyot",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_94cc44edf874",
+        "value": "Euken",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c8b5823ccf4e",
+        "value": "Fashi",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f59e34e8d6a2",
+        "value": "Fenton",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f59b07c44f15",
+        "value": "Gascoyn",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_adc3ef3fe496",
+        "value": "Gentry",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2271ffc81e23",
+        "value": "Giles",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3868a1677766",
+        "value": "Googe",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9dce94af2585",
+        "value": "Gosson",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_69cc360bd570",
+        "value": "Hesselwhite",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8f50dcd34c56",
+        "value": "Hobb",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_04b1b2d5829d",
+        "value": "Hoby",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5bda5a0ee05a",
+        "value": "Jaq",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1f0db922e487",
+        "value": "Joop",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_dc870a728c53",
+        "value": "Kelsoe",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE",
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "given_5fb425821f3a",
+        "value": "Kent",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_84e4f5b4f791",
+        "value": "Ketta",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_afcb7b091751",
+        "value": "Lane",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_023034b2e6c4",
+        "value": "Leese",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e7b55bd25223",
+        "value": "Lidda",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ac250c9e9ea8",
+        "value": "Linshey",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_eea3e37326be",
+        "value": "Linton",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_7bb3dd9abf88",
+        "value": "Lodge",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_18adcdeb80ae",
+        "value": "Lollard",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b20b1455a3ee",
+        "value": "Ludwedge",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_bab58d0ca5f2",
+        "value": "Lyly",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_bcf3a2723f4f",
+        "value": "Lynwerd",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8c7872b20ff9",
+        "value": "Maere",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_11cc775d4e34",
+        "value": "Marlow",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e91ef93edbc3",
+        "value": "Marston",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_108095379ef7",
+        "value": "Martobee",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c561690b0734",
+        "value": "Mendel",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_71a290d39bcb",
+        "value": "Meriadoc",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_bc97f7d99066",
+        "value": "Merrick",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e73b2ad26f98",
+        "value": "Misha",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e390d55c3354",
+        "value": "Mosely",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a8adb4363c6b",
+        "value": "Moss",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_fb0152f32ef9",
+        "value": "Murr",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE",
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "given_65d8ad79344b",
+        "value": "Nashe",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3c9f8e811b79",
+        "value": "Niles",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_04c196436bda",
+        "value": "Nivers",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4c39883d4279",
+        "value": "Norbe",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d74ae779c297",
+        "value": "Nython",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_16311af28eca",
+        "value": "Orlane",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b114bcab01d3",
+        "value": "Otem",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_718bc6f828ff",
+        "value": "Parse",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2f26919a0e0e",
+        "value": "Pence",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0ff143da046b",
+        "value": "Penge",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_de7a04602ef2",
+        "value": "Plunkett",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a695613bcb7f",
+        "value": "Pomme",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_195636a8de29",
+        "value": "Pons",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5e3cecdb5622",
+        "value": "Poole",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE",
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "given_66cf373604c6",
+        "value": "Quettery",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_fe1ec619d228",
+        "value": "Quillan",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ccf83cc8882b",
+        "value": "Quince",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e69622f41ffb",
+        "value": "Quinn",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f7a9036d469f",
+        "value": "Reeve",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_491a5fdf4bca",
+        "value": "Reswald",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e9589bc58e9c",
+        "value": "Ruskin",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_e1ba0eb970c3",
+        "value": "Seldon",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ccc304bd03df",
+        "value": "Sime",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_fdf0ed8faec8",
+        "value": "Spence",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d14667586689",
+        "value": "Syler",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_69290281fa16",
+        "value": "Talbot",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_58a8c7a0eb5c",
+        "value": "Taqi",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_51be51b60d94",
+        "value": "Tarby",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_188343d40ba3",
+        "value": "Tarquin",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_64e4e8bc80ff",
+        "value": "Thorne",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8a61d32399ee",
+        "value": "Tibbs",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_78fc3957e0ac",
+        "value": "Tish",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d506d7d5bf7a",
+        "value": "Tobus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_495ba28ea1ef",
+        "value": "Tyldan",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_9572c840a4b1",
+        "value": "Tyman",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_331205b90feb",
+        "value": "Tyndal",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d7191d770299",
+        "value": "Vaughn",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5d743e712e49",
+        "value": "Vicars",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5bbe25985080",
+        "value": "Wade",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_8c7fa7f4a083",
+        "value": "Warwyck",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ],
+    "family": [
+      {
+        "id": "family_ea46edae4ff8",
+        "value": "Abren",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_625e753f23b9",
+        "value": "Aravar",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_1c34a5abbd63",
+        "value": "Bachnin",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_7876007dd900",
+        "value": "Carados",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_5f227b820011",
+        "value": "Derunadel",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_06936a8ea804",
+        "value": "Ineskadel",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_7f8ce76befc2",
+        "value": "Kavilion",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_30bf09563450",
+        "value": "Malmagor",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_5785d75db617",
+        "value": "Muriir",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_de9bef9c9115",
+        "value": "Nessik",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_2a0b2d642800",
+        "value": "Raniel",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_6b064d96d5b4",
+        "value": "Sasken",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_c933cb28544b",
+        "value": "Talaviir",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_95404e52eb1b",
+        "value": "Wendelain",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_dff714798311",
+        "value": "Yimble",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "halfling.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "halfling",
+      "source": "halfling.nam",
+      "entrypoint": null,
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "halfling/MALE": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_7ed27d50d4b1",
+            "given_ab73af1aed10",
+            "given_6ea1d82fddad",
+            "given_a2f08dfedaf8",
+            "given_95cc1922c7db",
+            "given_663dbfb71c97",
+            "given_b049632a60d3",
+            "given_e67e32e96a23",
+            "given_35f539a84ebe",
+            "given_1e1e570ba7b0",
+            "given_4a87bfb4b0dd",
+            "given_37d63449f23a",
+            "given_702115a4a0fb",
+            "given_77763c2aa011",
+            "given_9845c421e7d1",
+            "given_f44a90c8f139",
+            "given_2cf69704b270",
+            "given_ffe41ccf18a0",
+            "given_37ae7066f91b",
+            "given_dbd99230df12",
+            "given_9e51d6cc456c",
+            "given_5bda41af8774",
+            "given_c4039f2c9ec9",
+            "given_da3b0d52f68e",
+            "given_29c432fd4c38",
+            "given_e0e365647361",
+            "given_beaf1bc75932",
+            "given_6ea9e5a53fef",
+            "given_55e9096df0bd",
+            "given_f41ce9d34442",
+            "given_94cc44edf874",
+            "given_f59e34e8d6a2",
+            "given_f59b07c44f15",
+            "given_adc3ef3fe496",
+            "given_2271ffc81e23",
+            "given_3868a1677766",
+            "given_9dce94af2585",
+            "given_8f50dcd34c56",
+            "given_04b1b2d5829d",
+            "given_dc870a728c53",
+            "given_5fb425821f3a",
+            "given_eea3e37326be",
+            "given_7bb3dd9abf88",
+            "given_18adcdeb80ae",
+            "given_b20b1455a3ee",
+            "given_bcf3a2723f4f",
+            "given_11cc775d4e34",
+            "given_e91ef93edbc3",
+            "given_108095379ef7",
+            "given_c561690b0734",
+            "given_bc97f7d99066",
+            "given_71a290d39bcb",
+            "given_e390d55c3354",
+            "given_a8adb4363c6b",
+            "given_fb0152f32ef9",
+            "given_65d8ad79344b",
+            "given_3c9f8e811b79",
+            "given_04c196436bda",
+            "given_4c39883d4279",
+            "given_d74ae779c297",
+            "given_b114bcab01d3",
+            "given_718bc6f828ff",
+            "given_0ff143da046b",
+            "given_a695613bcb7f",
+            "given_195636a8de29",
+            "given_5e3cecdb5622",
+            "given_66cf373604c6",
+            "given_fe1ec619d228",
+            "given_ccf83cc8882b",
+            "given_f7a9036d469f",
+            "given_491a5fdf4bca",
+            "given_e9589bc58e9c",
+            "given_e1ba0eb970c3",
+            "given_ccc304bd03df",
+            "given_fdf0ed8faec8",
+            "given_d14667586689",
+            "given_69290281fa16",
+            "given_51be51b60d94",
+            "given_188343d40ba3",
+            "given_8a61d32399ee",
+            "given_d506d7d5bf7a",
+            "given_495ba28ea1ef",
+            "given_9572c840a4b1",
+            "given_331205b90feb",
+            "given_5d743e712e49",
+            "given_5bbe25985080",
+            "given_8c7fa7f4a083"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "halfling/FEMALE": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_ab73af1aed10",
+            "given_e75dffddc2ee",
+            "given_e67e32e96a23",
+            "given_1532052c0f7b",
+            "given_dcaeda7dcc36",
+            "given_9508c4e4a2f9",
+            "given_d64e444e9bbf",
+            "given_c8b5823ccf4e",
+            "given_69cc360bd570",
+            "given_5bda5a0ee05a",
+            "given_1f0db922e487",
+            "given_dc870a728c53",
+            "given_84e4f5b4f791",
+            "given_afcb7b091751",
+            "given_023034b2e6c4",
+            "given_e7b55bd25223",
+            "given_ac250c9e9ea8",
+            "given_bab58d0ca5f2",
+            "given_8c7872b20ff9",
+            "given_e73b2ad26f98",
+            "given_fb0152f32ef9",
+            "given_16311af28eca",
+            "given_2f26919a0e0e",
+            "given_de7a04602ef2",
+            "given_5e3cecdb5622",
+            "given_e69622f41ffb",
+            "given_58a8c7a0eb5c",
+            "given_64e4e8bc80ff",
+            "given_78fc3957e0ac",
+            "given_d7191d770299"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "halfling/LAST NAMES": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_ea46edae4ff8",
+            "family_1c34a5abbd63",
+            "family_de9bef9c9115",
+            "family_6b064d96d5b4",
+            "family_dff714798311",
+            "family_06936a8ea804",
+            "family_5785d75db617",
+            "family_5f227b820011",
+            "family_7f8ce76befc2",
+            "family_c933cb28544b",
+            "family_625e753f23b9",
+            "family_30bf09563450",
+            "family_95404e52eb1b",
+            "family_2a0b2d642800",
+            "family_7876007dd900"
+          ],
+          "weighting": "uniform_unique_entries"
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "halfling.nam",
+      "sha256": "68ae1966725bbdf4da682147a0061ae49ba53c69572b7a80c0f50ff4cce87e05",
+      "encoding": "UTF-8"
+    }
+  ]
+}

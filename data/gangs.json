@@ -1,0 +1,1784 @@
+{
+  "format": "sr-namebot/1",
+  "id": "gangs",
+  "label": "Gang names",
+  "language": "en",
+  "kind": "category",
+  "status": "imported",
+  "profiles": [],
+  "pools": {
+    "component_male": [
+      {
+        "id": "component_male_896ab51bf3c7",
+        "value": "",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ],
+    "component_female": [
+      {
+        "id": "component_female_e4791aef1920",
+        "value": "69",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_320b77e78894",
+        "value": "70",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_f3aabc9e2ea7",
+        "value": "85",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_d6ad390da866",
+        "value": "Air",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_7f4ebf077a26",
+        "value": "Altered",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_c2214d6b335d",
+        "value": "Big",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_f130fba78382",
+        "value": "Black",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_785e2971c451",
+        "value": "Blind",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_e1fae640b9c7",
+        "value": "Blue",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_c07957ce2a46",
+        "value": "Broken",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_055d237f0315",
+        "value": "Chromatic",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_ad6ae99197c9",
+        "value": "Chrome",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_b4a0ee34f8ad",
+        "value": "Crack",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_51239c7afdcb",
+        "value": "Dark",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_710bebaa1b90",
+        "value": "Dead",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_e03af149e041",
+        "value": "Drugged",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_02661ed4431c",
+        "value": "Earth",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_0a544d2ca287",
+        "value": "Extortion",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_9d8abd6fcf2b",
+        "value": "Fire",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_a580aa1e5ac7",
+        "value": "First",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_1c410ec264b0",
+        "value": "Future",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_bbd5497c5e49",
+        "value": "Green",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_300c3c3b6d0f",
+        "value": "Hell",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_dc9b333f4f11",
+        "value": "High",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_f5ead3009937",
+        "value": "Ill",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_cd371ebf4a1e",
+        "value": "Iron",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_42987e3d866c",
+        "value": "Irridated",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_90b9089ac33d",
+        "value": "Lice",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_fb4eeda5a08b",
+        "value": "Little",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_55f2cec5247b",
+        "value": "Low",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_2296efbce7b2",
+        "value": "Money",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_96885c40b3fa",
+        "value": "Noise",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_a7da99aca66d",
+        "value": "Oriental",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_c6545c55277c",
+        "value": "Ornamented",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_cedb90e22de1",
+        "value": "Pink",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_d0b23668e5a0",
+        "value": "Poly",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_fbd51958aadf",
+        "value": "Porcelain",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_6daee598adf5",
+        "value": "Rancid",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_4d6c22832a77",
+        "value": "Rational",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_2492363ff0e5",
+        "value": "Red",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_3c47d489f1f6",
+        "value": "Rock",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_18c2ba30d66f",
+        "value": "Rusted",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_4f41b7a61bbb",
+        "value": "Second",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_27661fd27a65",
+        "value": "Serrated",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_ecdcee1bf59a",
+        "value": "Silly",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_3a373bd1c913",
+        "value": "Silver",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_c4279c51b21a",
+        "value": "Solo",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_61704c429abe",
+        "value": "Soul",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_2445e9ed36bb",
+        "value": "Spotted",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_5cd35163d6bb",
+        "value": "Styrene",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_c6b0abb00707",
+        "value": "Tank",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_ddedfb3099ed",
+        "value": "Terror",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_adf695bd5d5c",
+        "value": "Thunder",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_f6ed3707d6b2",
+        "value": "Tirade",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_d02db809b00a",
+        "value": "Twelth",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_60300c1aed21",
+        "value": "Twisted",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_3e66c6f77814",
+        "value": "Water",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_e689802d8cb4",
+        "value": "White",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_880a8715e77e",
+        "value": "Wild",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_female_3f3e6939789f",
+        "value": "Yellow",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ],
+    "component_last_names": [
+      {
+        "id": "component_last_names_ce2fb35af220",
+        "value": "Anarchists",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_97bc3c5d1fb5",
+        "value": "Axes",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_ebf9af090532",
+        "value": "Badges",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_3a7caa6e5284",
+        "value": "Band",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_443e58e30e0a",
+        "value": "Beans",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_16655ced0a08",
+        "value": "Bombs",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_bf2d431b49ee",
+        "value": "Boulders",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_074b0056a956",
+        "value": "Boyz",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_826c9ca730ba",
+        "value": "Brains",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e9e3c94a92d5",
+        "value": "Cats",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_756d5eefb16b",
+        "value": "Cops",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_d2a6eab2c0c6",
+        "value": "Disks",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_4b7878ab0c1f",
+        "value": "Dogs",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_03b507e00a7e",
+        "value": "Dorks",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_11ab50dd4a1d",
+        "value": "Dreams",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_aae808b147bb",
+        "value": "Echoes",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_be5429081bfb",
+        "value": "Eyes",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_bd1dd0c4729b",
+        "value": "Folly",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_bef7c28829bc",
+        "value": "Gallows",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_73f573eff6e0",
+        "value": "Girls",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e48e87211a3f",
+        "value": "Gods",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e9484b2759a8",
+        "value": "Heroes",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_fc599b7e0fb2",
+        "value": "Holes",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e6bab5b4b2fd",
+        "value": "Hunters",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_161cbc743bbd",
+        "value": "Hyeneas",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_fc20421cc8d1",
+        "value": "Jesters",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_b7de83dc4c33",
+        "value": "Judges",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_4740e7203a72",
+        "value": "Kings",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_b4bec127d8ab",
+        "value": "Knights",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_1f6ade684ff9",
+        "value": "Knives",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_d1163f001239",
+        "value": "Lions",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_acc78d91ad40",
+        "value": "Lords",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_f12ad0fb11ec",
+        "value": "Maces",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_157a503a3f04",
+        "value": "Maurauders",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_18a4f0a99a3f",
+        "value": "Men",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_8b23707a6c39",
+        "value": "Monkeys",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_b74060a29eb1",
+        "value": "Noises",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_88647a3c389f",
+        "value": "Pirates",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_5f58cc3b5509",
+        "value": "Pistols",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e82e813a7053",
+        "value": "Predators",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_9cc3f9be288d",
+        "value": "Pretense",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_0f26ee9a93d4",
+        "value": "Raiders",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_76e81c8db76f",
+        "value": "Rains",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_12d81efb7255",
+        "value": "Rats",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_0399b68cdc8a",
+        "value": "Ravagers",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_432efd409cd1",
+        "value": "Renegades",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_038f1883d2b4",
+        "value": "Rocks",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_9aef086a9ac5",
+        "value": "Runners",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_bd995fed670f",
+        "value": "Shotguns",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e55ff81c0836",
+        "value": "Shots",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_9059e04011e1",
+        "value": "Skeletons",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_f08ec2530c6b",
+        "value": "Tyrants",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_45224a1fdb35",
+        "value": "Zapatas",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_cb3233d1b365",
+        "value": "Zombies",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Gangs.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "gangs",
+      "source": "Gangs.nam",
+      "entrypoint": null,
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "gangs/MALE": {
+          "mode": "pool",
+          "pool": "component_male",
+          "entries": [
+            "component_male_896ab51bf3c7"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "gangs/FEMALE": {
+          "mode": "pool",
+          "pool": "component_female",
+          "entries": [
+            "component_female_e4791aef1920",
+            "component_female_320b77e78894",
+            "component_female_f3aabc9e2ea7",
+            "component_female_d6ad390da866",
+            "component_female_7f4ebf077a26",
+            "component_female_c2214d6b335d",
+            "component_female_f130fba78382",
+            "component_female_785e2971c451",
+            "component_female_e1fae640b9c7",
+            "component_female_c07957ce2a46",
+            "component_female_055d237f0315",
+            "component_female_ad6ae99197c9",
+            "component_female_b4a0ee34f8ad",
+            "component_female_51239c7afdcb",
+            "component_female_710bebaa1b90",
+            "component_female_e03af149e041",
+            "component_female_02661ed4431c",
+            "component_female_0a544d2ca287",
+            "component_female_9d8abd6fcf2b",
+            "component_female_a580aa1e5ac7",
+            "component_female_1c410ec264b0",
+            "component_female_bbd5497c5e49",
+            "component_female_300c3c3b6d0f",
+            "component_female_dc9b333f4f11",
+            "component_female_f5ead3009937",
+            "component_female_cd371ebf4a1e",
+            "component_female_42987e3d866c",
+            "component_female_90b9089ac33d",
+            "component_female_fb4eeda5a08b",
+            "component_female_55f2cec5247b",
+            "component_female_2296efbce7b2",
+            "component_female_96885c40b3fa",
+            "component_female_a7da99aca66d",
+            "component_female_c6545c55277c",
+            "component_female_cedb90e22de1",
+            "component_female_d0b23668e5a0",
+            "component_female_fbd51958aadf",
+            "component_female_6daee598adf5",
+            "component_female_4d6c22832a77",
+            "component_female_2492363ff0e5",
+            "component_female_3c47d489f1f6",
+            "component_female_18c2ba30d66f",
+            "component_female_4f41b7a61bbb",
+            "component_female_27661fd27a65",
+            "component_female_ecdcee1bf59a",
+            "component_female_3a373bd1c913",
+            "component_female_c4279c51b21a",
+            "component_female_61704c429abe",
+            "component_female_2445e9ed36bb",
+            "component_female_5cd35163d6bb",
+            "component_female_c6b0abb00707",
+            "component_female_ddedfb3099ed",
+            "component_female_adf695bd5d5c",
+            "component_female_f6ed3707d6b2",
+            "component_female_d02db809b00a",
+            "component_female_60300c1aed21",
+            "component_female_3e66c6f77814",
+            "component_female_e689802d8cb4",
+            "component_female_880a8715e77e",
+            "component_female_3f3e6939789f"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "gangs/LAST NAMES": {
+          "mode": "pool",
+          "pool": "component_last_names",
+          "entries": [
+            "component_last_names_ce2fb35af220",
+            "component_last_names_97bc3c5d1fb5",
+            "component_last_names_ebf9af090532",
+            "component_last_names_3a7caa6e5284",
+            "component_last_names_443e58e30e0a",
+            "component_last_names_16655ced0a08",
+            "component_last_names_bf2d431b49ee",
+            "component_last_names_074b0056a956",
+            "component_last_names_826c9ca730ba",
+            "component_last_names_e9e3c94a92d5",
+            "component_last_names_756d5eefb16b",
+            "component_last_names_d2a6eab2c0c6",
+            "component_last_names_4b7878ab0c1f",
+            "component_last_names_03b507e00a7e",
+            "component_last_names_11ab50dd4a1d",
+            "component_last_names_aae808b147bb",
+            "component_last_names_be5429081bfb",
+            "component_last_names_bd1dd0c4729b",
+            "component_last_names_bef7c28829bc",
+            "component_last_names_73f573eff6e0",
+            "component_last_names_e48e87211a3f",
+            "component_last_names_e9484b2759a8",
+            "component_last_names_fc599b7e0fb2",
+            "component_last_names_e6bab5b4b2fd",
+            "component_last_names_161cbc743bbd",
+            "component_last_names_fc20421cc8d1",
+            "component_last_names_b7de83dc4c33",
+            "component_last_names_4740e7203a72",
+            "component_last_names_b4bec127d8ab",
+            "component_last_names_1f6ade684ff9",
+            "component_last_names_d1163f001239",
+            "component_last_names_acc78d91ad40",
+            "component_last_names_f12ad0fb11ec",
+            "component_last_names_157a503a3f04",
+            "component_last_names_18a4f0a99a3f",
+            "component_last_names_8b23707a6c39",
+            "component_last_names_b74060a29eb1",
+            "component_last_names_88647a3c389f",
+            "component_last_names_5f58cc3b5509",
+            "component_last_names_e82e813a7053",
+            "component_last_names_9cc3f9be288d",
+            "component_last_names_0f26ee9a93d4",
+            "component_last_names_76e81c8db76f",
+            "component_last_names_12d81efb7255",
+            "component_last_names_0399b68cdc8a",
+            "component_last_names_432efd409cd1",
+            "component_last_names_038f1883d2b4",
+            "component_last_names_9aef086a9ac5",
+            "component_last_names_bd995fed670f",
+            "component_last_names_e55ff81c0836",
+            "component_last_names_9059e04011e1",
+            "component_last_names_f08ec2530c6b",
+            "component_last_names_45224a1fdb35",
+            "component_last_names_cb3233d1b365"
+          ],
+          "weighting": "uniform_unique_entries"
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "Gangs.nam",
+      "sha256": "5c58d8ae45ad20870dceb96b9b45fdd45085e8003b8394ddfa792030d2a45b4e",
+      "encoding": "UTF-8"
+    }
+  ],
+  "notes": [
+    "Legacy MALE/FEMALE tables are gang-name components, not character genders. Their blank entry and source table references are retained."
+  ]
+}

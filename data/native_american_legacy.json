@@ -1,0 +1,1803 @@
+{
+  "format": "sr-namebot/1",
+  "id": "native_american_legacy",
+  "label": "Native American — legacy English word generator",
+  "language": "en",
+  "kind": "category",
+  "status": "imported",
+  "profiles": [],
+  "pools": {
+    "component_male": [
+      {
+        "id": "component_male_92eb08929c5f",
+        "value": "Big",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_00a7a2841a25",
+        "value": "Black",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_4a2b781eed90",
+        "value": "Blue",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_c63a015b30d4",
+        "value": "Bobwhite",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_92bee553194a",
+        "value": "Brave",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "component_male_ecc42f87e072",
+        "value": "Brown",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_3923aa12bc92",
+        "value": "Crazy",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_e233d50483ec",
+        "value": "Drinking",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_7deb0244bb44",
+        "value": "Dusty",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_ae7b3aae12f8",
+        "value": "Fat",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_42efd9c841a4",
+        "value": "Flaming",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_c2e69eb58bcd",
+        "value": "Flying",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_25244ad1a988",
+        "value": "Frowning",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_c0cd842bb84c",
+        "value": "Golden",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_38647aaaea30",
+        "value": "Great",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_15f314c9e6c3",
+        "value": "Green",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_2891fea2d437",
+        "value": "Handsome",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "component_male_ab1c8df25f21",
+        "value": "Howling",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_d25fb0f13f36",
+        "value": "Last",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_bb97d7c7dbdb",
+        "value": "Laughing",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_b3eaa3c0d532",
+        "value": "Leaning",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_ebb57364694c",
+        "value": "Leaping",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "component_male_e1abace6a048",
+        "value": "Little",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_80e0ff0bc840",
+        "value": "Lost",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_6424ebeebc84",
+        "value": "Lying",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_fa4396daf98f",
+        "value": "Mighty",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_cf4d957a317e",
+        "value": "Quick",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_1e06c5b7a27d",
+        "value": "Red",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_703efcabdb57",
+        "value": "Running",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_1d6fcd11830d",
+        "value": "Screaming",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_82e01c31ae46",
+        "value": "Screeching",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_acfea9a3fb7a",
+        "value": "Searching",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_f81fdbfba7c9",
+        "value": "Short",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_7c3af34ea794",
+        "value": "Silver",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_60257a69885d",
+        "value": "Singing",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_a9fc25c8c149",
+        "value": "Sitting",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_4a00ce3763b8",
+        "value": "Sleeping",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_3e4a512d8272",
+        "value": "Sly",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_58f52031f242",
+        "value": "Spotted",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_4888adf672b0",
+        "value": "Standing",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_d2b35b490be0",
+        "value": "Striped",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_1b2cdd8831ef",
+        "value": "Strong",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_e00d6bf6c278",
+        "value": "Swift",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_35858eb0035d",
+        "value": "Talking",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_1e82aa458986",
+        "value": "Tall",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_d168e09df1dc",
+        "value": "Thin",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_2aa9db803985",
+        "value": "Truthful",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_e10c06114744",
+        "value": "Victorious",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_be2be609ee6f",
+        "value": "Walking",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_e2b43197fd6d",
+        "value": "Whining",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_35811f098c73",
+        "value": "White",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_d39b78d4b8f5",
+        "value": "Wild",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_39fa818a8c6f",
+        "value": "Wise",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_male_e23d6abea711",
+        "value": "Yellow",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ],
+    "component_female": [
+      {
+        "id": "component_female_05f3ce67ee86",
+        "value": "",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ],
+    "component_last_names": [
+      {
+        "id": "component_last_names_f311be4ad8b0",
+        "value": "Antelope",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_5c733c09ab27",
+        "value": "Arm",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_ad1cf4e54d7a",
+        "value": "Arrow",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_af8f599c8c32",
+        "value": "Ax",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_2a32e2fdbba7",
+        "value": "Badger",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_17c442eba6ff",
+        "value": "Bear",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_7ad717a885af",
+        "value": "Beaver",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_d54b1979049f",
+        "value": "Buffalo",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_996cdd9649f6",
+        "value": "Bull",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_079b563e4313",
+        "value": "Bullet",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_c511cd3076fe",
+        "value": "Chief",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_888061721c75",
+        "value": "Child",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_a62ab82de664",
+        "value": "Cloud",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_238bad05a62f",
+        "value": "Coyote",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_d39313d220aa",
+        "value": "Crow",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_21c3ba974c52",
+        "value": "Dog",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_2902fc51066c",
+        "value": "Drum",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_03bc3882e09e",
+        "value": "Duck",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_252c53eb5e34",
+        "value": "Eagle",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_0b6259543e17",
+        "value": "Ear",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_51dca50a2c80",
+        "value": "Elk",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_22bfa29172aa",
+        "value": "Eye",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_5d3ab9367084",
+        "value": "Face",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_a47e97d6369d",
+        "value": "Finger",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_66725d50f63c",
+        "value": "Foot",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_2331834566a7",
+        "value": "Forest",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_13e62e29a628",
+        "value": "Fox",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e62e9fc85b38",
+        "value": "Goat",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_058123e73a4b",
+        "value": "Hair",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e8095ee444be",
+        "value": "Hand",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_28d61f8dc31d",
+        "value": "Hawk",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_0a767a31deb8",
+        "value": "Head",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_550b75fc79b4",
+        "value": "Horn",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_deaaae8a8fa2",
+        "value": "Horse",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "component_last_names_dae4601129ec",
+        "value": "Jacket",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_22ca7bac70e1",
+        "value": "Kettle",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_f61f7f1b5e4f",
+        "value": "Lake",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "component_last_names_bc0462c9659e",
+        "value": "Leg",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_ebbd1b1906c0",
+        "value": "Man",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_16066627e4d5",
+        "value": "Moon",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_8d058dc29abe",
+        "value": "Mountain",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_b338850801de",
+        "value": "Mouth",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_d61e4b60006d",
+        "value": "Nail",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_ee473efb0487",
+        "value": "Nose",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_70ceb15c0163",
+        "value": "Owl",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_fd4c586eda62",
+        "value": "Rain",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_770d682437b0",
+        "value": "Raven",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_f3913e0556a0",
+        "value": "River",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_6463a333e894",
+        "value": "Sky",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_38807f4aed41",
+        "value": "Snail",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_c1ed2aae9a04",
+        "value": "Squirel",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_f59e6695dc32",
+        "value": "Star",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_d66ee6fed13a",
+        "value": "Storm",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_f0284bff06b9",
+        "value": "Sun",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_966d72263452",
+        "value": "Tail",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e43b28a945f3",
+        "value": "Tree",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_0825756e9f05",
+        "value": "Turtle",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e7d2075a0dfb",
+        "value": "Water",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_74635a7311f2",
+        "value": "Wind",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_beb09d0ef4ff",
+        "value": "Wolf",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "component_last_names_e694a5147f5e",
+        "value": "Woman",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Native American.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "native_american",
+      "source": "Native American.nam",
+      "entrypoint": null,
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "native_american/MALE": {
+          "mode": "pool",
+          "pool": "component_male",
+          "entries": [
+            "component_male_1e06c5b7a27d",
+            "component_male_e23d6abea711",
+            "component_male_00a7a2841a25",
+            "component_male_35811f098c73",
+            "component_male_7deb0244bb44",
+            "component_male_ecc42f87e072",
+            "component_male_4a2b781eed90",
+            "component_male_15f314c9e6c3",
+            "component_male_d2b35b490be0",
+            "component_male_58f52031f242",
+            "component_male_92eb08929c5f",
+            "component_male_e1abace6a048",
+            "component_male_ae7b3aae12f8",
+            "component_male_d168e09df1dc",
+            "component_male_2891fea2d437",
+            "component_male_92bee553194a",
+            "component_male_39fa818a8c6f",
+            "component_male_42efd9c841a4",
+            "component_male_cf4d957a317e",
+            "component_male_3e4a512d8272",
+            "component_male_1b2cdd8831ef",
+            "component_male_c63a015b30d4",
+            "component_male_fa4396daf98f",
+            "component_male_6424ebeebc84",
+            "component_male_a9fc25c8c149",
+            "component_male_4888adf672b0",
+            "component_male_be2be609ee6f",
+            "component_male_703efcabdb57",
+            "component_male_35858eb0035d",
+            "component_male_60257a69885d",
+            "component_male_ebb57364694c",
+            "component_male_ab1c8df25f21",
+            "component_male_1d6fcd11830d",
+            "component_male_82e01c31ae46",
+            "component_male_e2b43197fd6d",
+            "component_male_b3eaa3c0d532",
+            "component_male_bb97d7c7dbdb",
+            "component_male_c2e69eb58bcd",
+            "component_male_38647aaaea30",
+            "component_male_4a00ce3763b8",
+            "component_male_acfea9a3fb7a",
+            "component_male_e233d50483ec",
+            "component_male_2aa9db803985",
+            "component_male_80e0ff0bc840",
+            "component_male_d25fb0f13f36",
+            "component_male_d39b78d4b8f5",
+            "component_male_7c3af34ea794",
+            "component_male_c0cd842bb84c",
+            "component_male_f81fdbfba7c9",
+            "component_male_1e82aa458986",
+            "component_male_3923aa12bc92",
+            "component_male_e10c06114744",
+            "component_male_e00d6bf6c278",
+            "component_male_25244ad1a988"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "native_american/FEMALE": {
+          "mode": "pool",
+          "pool": "component_female",
+          "entries": [
+            "component_female_05f3ce67ee86"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "native_american/LAST NAMES": {
+          "mode": "pool",
+          "pool": "component_last_names",
+          "entries": [
+            "component_last_names_252c53eb5e34",
+            "component_last_names_d54b1979049f",
+            "component_last_names_17c442eba6ff",
+            "component_last_names_beb09d0ef4ff",
+            "component_last_names_13e62e29a628",
+            "component_last_names_7ad717a885af",
+            "component_last_names_e7d2075a0dfb",
+            "component_last_names_f61f7f1b5e4f",
+            "component_last_names_770d682437b0",
+            "component_last_names_d39313d220aa",
+            "component_last_names_2a32e2fdbba7",
+            "component_last_names_deaaae8a8fa2",
+            "component_last_names_28d61f8dc31d",
+            "component_last_names_70ceb15c0163",
+            "component_last_names_f311be4ad8b0",
+            "component_last_names_238bad05a62f",
+            "component_last_names_996cdd9649f6",
+            "component_last_names_0825756e9f05",
+            "component_last_names_03bc3882e09e",
+            "component_last_names_e62e9fc85b38",
+            "component_last_names_38807f4aed41",
+            "component_last_names_21c3ba974c52",
+            "component_last_names_c1ed2aae9a04",
+            "component_last_names_ebbd1b1906c0",
+            "component_last_names_e694a5147f5e",
+            "component_last_names_888061721c75",
+            "component_last_names_5d3ab9367084",
+            "component_last_names_0a767a31deb8",
+            "component_last_names_22bfa29172aa",
+            "component_last_names_ee473efb0487",
+            "component_last_names_b338850801de",
+            "component_last_names_e8095ee444be",
+            "component_last_names_66725d50f63c",
+            "component_last_names_5c733c09ab27",
+            "component_last_names_bc0462c9659e",
+            "component_last_names_058123e73a4b",
+            "component_last_names_0b6259543e17",
+            "component_last_names_a47e97d6369d",
+            "component_last_names_d61e4b60006d",
+            "component_last_names_e43b28a945f3",
+            "component_last_names_22ca7bac70e1",
+            "component_last_names_550b75fc79b4",
+            "component_last_names_16066627e4d5",
+            "component_last_names_f0284bff06b9",
+            "component_last_names_f59e6695dc32",
+            "component_last_names_6463a333e894",
+            "component_last_names_8d058dc29abe",
+            "component_last_names_51dca50a2c80",
+            "component_last_names_f3913e0556a0",
+            "component_last_names_2331834566a7",
+            "component_last_names_a62ab82de664",
+            "component_last_names_fd4c586eda62",
+            "component_last_names_74635a7311f2",
+            "component_last_names_d66ee6fed13a",
+            "component_last_names_ad1cf4e54d7a",
+            "component_last_names_2902fc51066c",
+            "component_last_names_af8f599c8c32",
+            "component_last_names_c511cd3076fe",
+            "component_last_names_dae4601129ec",
+            "component_last_names_966d72263452",
+            "component_last_names_079b563e4313"
+          ],
+          "weighting": "uniform_unique_entries"
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "Native American.nam",
+      "sha256": "b26b37ab21a883a7077968e706e211670e0fd0814bc2eae4881add2e2fcb046f",
+      "encoding": "UTF-8",
+      "comment": "\"This file enables you to create 'original' names of people of the Indian tribes of North America. This file was created by Timo Kreike <kreike@chem.vu.nl> and is based on original material taken from a message of Peter van Houten posted to the SCOUTS-L mailing list.\""
+    }
+  ],
+  "classification_review_needed": true,
+  "notes": [
+    "English word-combination generator from a legacy source, with no named tribal or Indigenous-language attribution.",
+    "MALE/FEMALE/LAST NAMES are retained as component tables, not verified given names or surnames. The blank FEMALE entry is intentional.",
+    "Source spelling Squirel is preserved pending editorial review."
+  ]
+}

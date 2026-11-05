@@ -1,0 +1,554 @@
+{
+  "id": "hawaiian",
+  "label": "Hawaiian",
+  "language": "haw",
+  "kind": "language",
+  "scope": "Modern Hawaiian personal names and surnames; curated sample, not all residents of Hawaii",
+  "order": [
+    "given",
+    "family"
+  ],
+  "references": [
+    {
+      "id": "haw_given",
+      "title": "Wiktionary contributors: Appendix:Hawaiian given names",
+      "url": "https://en.wiktionary.org/wiki/Appendix:Hawaiian_given_names",
+      "accessed": "2026-11-02",
+      "coverage": "Small, uneven Oahu-centred survey; observed usage is not an exclusive gender rule. Source warns its underlying survey omitted macrons.",
+      "license": "CC BY-SA 4.0; selected name facts only; attribution and source links retained"
+    },
+    {
+      "id": "haw_family",
+      "title": "Wiktionary contributors: Category:Hawaiian surnames",
+      "url": "https://en.wiktionary.org/wiki/Category:Hawaiian_surnames",
+      "accessed": "2026-11-02",
+      "coverage": "Selected Hawaiian surname entries; category membership establishes role, not frequency.",
+      "license": "CC BY-SA 4.0; selected name facts only; attribution and source links retained"
+    },
+    {
+      "id": "haw_orthography",
+      "title": "University of Hawaii: Hawaiian Language Considerations",
+      "url": "https://www.hawaii.edu/offices/communications/standards/hawaiian-language-considerations/",
+      "accessed": "2026-11-02",
+      "coverage": "Orthographic guidance"
+    }
+  ],
+  "notes": [
+    "Use sourced whole names, not invented syllable combinations. Spellings follow displayed dictionary headwords; underlying survey spellings may be ambiguous.",
+    "Genders record observed usage in the source sample; names are not declared exclusive to that gender.",
+    "This modern given-plus-family profile is a simplified fictional character convention, not a reconstruction of traditional naming ceremonies."
+  ],
+  "records": [
+    {
+      "value": "Alakaʻi",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻAlika",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻAukai",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻEhukai",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻEnoka",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Haʻaheo",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hanalei",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hanohano",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hekili",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hiapo",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hīnano",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hoʻokano",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hoʻopiʻi",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Ioane",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Iokepa",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻAilana",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Akeakamai",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻAkela",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻĀnela",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Anuhea",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻAuliʻi",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻEwalani",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Haunani",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hiʻilei",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hiwahiwa",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hōkū",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻIolana",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Ipolani",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻIwalani",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Alana",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Alapaʻi",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Aloha",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻAlohilani",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Ānuenue",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "ʻAulani",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hauʻoli",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Healani",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hiʻilani",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hōkūlani",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Ikaika",
+      "role": "given",
+      "genders": [
+        "female",
+        "male"
+      ],
+      "reference": "haw_given"
+    },
+    {
+      "value": "Hale",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Iona",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kahale",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kahananui",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kahele",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kahue",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kaiwi",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kalama",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kalani",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kalawaiʻa",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kalili",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kalua",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kama",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kamaka",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kameāloha",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kāne",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kapule",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kawai",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kaʻanāʻanā",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kaʻaukai",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kaʻuhane",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Keahi",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kealoha",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Keawe",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Kekoa",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Keliʻi",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Mahelona",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Mahiʻai",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "Māhoe",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    },
+    {
+      "value": "ʻŌpūnui",
+      "role": "family",
+      "genders": [],
+      "reference": "haw_family"
+    }
+  ]
+}

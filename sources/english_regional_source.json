@@ -1,0 +1,190 @@
+{
+  "id": "english_regional",
+  "references": [
+    {
+      "id": "england_wales_2024",
+      "title": "LBC report of ONS 2024 names",
+      "url": "https://www.lbc.co.uk/article/popular-baby-names-britain-5Hjd88w_2/",
+      "accessed": "2026-11-02",
+      "coverage": "Top ten boys and girls in England and Wales; secondary transcription of ONS release"
+    },
+    {
+      "id": "ons_release",
+      "title": "ONS: Baby names in England and Wales 2024",
+      "url": "https://www.ons.gov.uk/releases/babynamesinenglandandwales2024",
+      "accessed": "2026-11-02",
+      "coverage": "Confirms release and geographic scope; individual names transcribed from LBC"
+    },
+    {
+      "id": "scotland_2024",
+      "title": "National Records of Scotland: Babies First Names 2024",
+      "url": "https://nrscotland.gov.uk/publications/babies-first-names-2024/",
+      "accessed": "2026-11-02",
+      "coverage": "Top twenty ranks per sex; ties retained"
+    },
+    {
+      "id": "nsw_2024",
+      "title": "NSW Government: Popular baby names",
+      "url": "https://www.nsw.gov.au/family-and-relationships/births/popular-baby-names",
+      "accessed": "2026-11-02",
+      "coverage": "2024 top ten boys and girls, New South Wales only"
+    },
+    {
+      "id": "nz_2024",
+      "title": "1News: New Zealand most popular baby names 2024",
+      "url": "https://tvnz-1-news-prod.cdn.arcpublishing.com/2025/01/08/new-zealands-most-popular-baby-names-for-2024-revealed/",
+      "accessed": "2026-11-02",
+      "coverage": "Top ten per sex, reporting DIA release; no counts imported"
+    },
+    {
+      "id": "nz_release",
+      "title": "New Zealand Government: Top baby names for 2024",
+      "url": "https://www.beehive.govt.nz/release/top-baby-names-2024",
+      "accessed": "2026-11-02",
+      "coverage": "Primary confirmation of release and coverage"
+    }
+  ],
+  "groups": [
+    {
+      "profile": "british",
+      "reference": "england_wales_2024",
+      "year": 2024,
+      "coverage": "England and Wales",
+      "male": [
+        "Muhammad",
+        "Noah",
+        "Oliver",
+        "Arthur",
+        "Leo",
+        "George",
+        "Luca",
+        "Theodore",
+        "Oscar",
+        "Archie"
+      ],
+      "female": [
+        "Olivia",
+        "Amelia",
+        "Lily",
+        "Isla",
+        "Ivy",
+        "Florence",
+        "Freya",
+        "Poppy",
+        "Ava",
+        "Elsie"
+      ]
+    },
+    {
+      "profile": "british",
+      "reference": "scotland_2024",
+      "year": 2024,
+      "coverage": "Scotland",
+      "male": [
+        "Noah",
+        "Muhammad",
+        "Rory",
+        "Theo",
+        "Leo",
+        "Luca",
+        "Jack",
+        "Oliver",
+        "Harris",
+        "Archie",
+        "Finlay",
+        "Alexander",
+        "Jude",
+        "James",
+        "Alfie",
+        "Brodie",
+        "Finn",
+        "Arlo",
+        "Charlie",
+        "Thomas",
+        "Tommy"
+      ],
+      "female": [
+        "Olivia",
+        "Isla",
+        "Freya",
+        "Lily",
+        "Millie",
+        "Sophia",
+        "Amelia",
+        "Emily",
+        "Ella",
+        "Charlotte",
+        "Ava",
+        "Bonnie",
+        "Grace",
+        "Evie",
+        "Ivy",
+        "Rosie",
+        "Sophie",
+        "Maisie",
+        "Maya",
+        "Orla"
+      ]
+    },
+    {
+      "profile": "australian",
+      "reference": "nsw_2024",
+      "year": 2024,
+      "coverage": "New South Wales",
+      "male": [
+        "Noah",
+        "Oliver",
+        "Theodore",
+        "Luca",
+        "Henry",
+        "Leo",
+        "Hudson",
+        "Charlie",
+        "Lucas",
+        "Elijah"
+      ],
+      "female": [
+        "Charlotte",
+        "Amelia",
+        "Olivia",
+        "Mia",
+        "Isla",
+        "Chloe",
+        "Harper",
+        "Hazel",
+        "Sophia",
+        "Evelyn"
+      ]
+    },
+    {
+      "profile": "new_zealand",
+      "reference": "nz_2024",
+      "year": 2024,
+      "coverage": "New Zealand",
+      "male": [
+        "Noah",
+        "Oliver",
+        "Leo",
+        "George",
+        "Jack",
+        "Luca",
+        "Theodore",
+        "Elijah",
+        "Theo",
+        "Arthur"
+      ],
+      "female": [
+        "Isla",
+        "Amelia",
+        "Charlotte",
+        "Lily",
+        "Isabella",
+        "Olivia",
+        "Hazel",
+        "Harper",
+        "Mia",
+        "Mila"
+      ]
+    }
+  ]
+}

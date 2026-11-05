@@ -1,0 +1,1941 @@
+{
+  "id": "hawaiian",
+  "label": "Hawaiian",
+  "language": "haw",
+  "kind": "language",
+  "scope": "Modern Hawaiian personal names and surnames; curated sample, not all residents of Hawaii",
+  "notes": [
+    "Use sourced whole names, not invented syllable combinations. Spellings follow displayed dictionary headwords; underlying survey spellings may be ambiguous.",
+    "Genders record observed usage in the source sample; names are not declared exclusive to that gender.",
+    "This modern given-plus-family profile is a simplified fictional character convention, not a reconstruction of traditional naming ceremonies."
+  ],
+  "format": "sr-namebot/1",
+  "status": "imported",
+  "profiles": [
+    {
+      "id": "hawaiian_all",
+      "label": "Hawaiian — unfiltered",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "family"
+      ],
+      "program": "hawaiian_all",
+      "gender_filter": null,
+      "unknown_gender_policy": "include"
+    },
+    {
+      "id": "hawaiian_male",
+      "label": "Hawaiian — male",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "family"
+      ],
+      "program": "hawaiian_male",
+      "gender_filter": "male",
+      "unknown_gender_policy": "exclude"
+    },
+    {
+      "id": "hawaiian_female",
+      "label": "Hawaiian — female",
+      "status": "sourced_starter",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "family"
+      ],
+      "program": "hawaiian_female",
+      "gender_filter": "female",
+      "unknown_gender_policy": "exclude"
+    }
+  ],
+  "pools": {
+    "given": [
+      {
+        "id": "given_abfca3d35888",
+        "value": "Akeakamai",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_757db46ab1d1",
+        "value": "Alakaʻi",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_38bc65c8377f",
+        "value": "Alana",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_d14a196091b8",
+        "value": "Alapaʻi",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_1d9fcc99b019",
+        "value": "Aloha",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_c8454794b073",
+        "value": "Anuhea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_a8225a8529b6",
+        "value": "Hanalei",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_8dcfb993710e",
+        "value": "Hanohano",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_be1a5265f671",
+        "value": "Haunani",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_a21066ec905c",
+        "value": "Hauʻoli",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_89a1a23f5135",
+        "value": "Haʻaheo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_fd872ba12f94",
+        "value": "Healani",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_17d0b58f069a",
+        "value": "Hekili",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_c118caa5112a",
+        "value": "Hiapo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_ce2ae03f8591",
+        "value": "Hiwahiwa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_853ee56643f2",
+        "value": "Hiʻilani",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_5d8246919563",
+        "value": "Hiʻilei",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_f10f2026aa2f",
+        "value": "Hoʻokano",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_f241ed51da2a",
+        "value": "Hoʻopiʻi",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_bba5371f7b66",
+        "value": "Hīnano",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_22b01d56d773",
+        "value": "Hōkū",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_85df0e9e395d",
+        "value": "Hōkūlani",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_420c13d70309",
+        "value": "Ikaika",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_ba9ec096401b",
+        "value": "Ioane",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_e39848dd8385",
+        "value": "Iokepa",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_9ea28220bc29",
+        "value": "Ipolani",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_5a370a15bd93",
+        "value": "Ānuenue",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_7d26de2a9861",
+        "value": "ʻAilana",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_8624793e0836",
+        "value": "ʻAkela",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_9dcfba6499d4",
+        "value": "ʻAlika",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_58f03bca3909",
+        "value": "ʻAlohilani",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_ae8f79342e2c",
+        "value": "ʻAukai",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_da937655e781",
+        "value": "ʻAulani",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_4db2d4b2e299",
+        "value": "ʻAuliʻi",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_2b0f0e14ce66",
+        "value": "ʻEhukai",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_a6075919756c",
+        "value": "ʻEnoka",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_36f6ff8ee4ea",
+        "value": "ʻEwalani",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_fcb0960bfa7a",
+        "value": "ʻIolana",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_d08a0eb5f84e",
+        "value": "ʻIwalani",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      },
+      {
+        "id": "given_4d904c25edad",
+        "value": "ʻĀnela",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_given"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_given",
+            "gender_basis": "source_observed_usage"
+          }
+        ]
+      }
+    ],
+    "family": [
+      {
+        "id": "family_44b7084b4c65",
+        "value": "Hale",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_15fb109e6e13",
+        "value": "Iona",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_c75c67e5a6a3",
+        "value": "Kahale",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_ad14dca0939f",
+        "value": "Kahananui",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_07c09c750e6c",
+        "value": "Kahele",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_1c823550a669",
+        "value": "Kahue",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_bd4a0e08a176",
+        "value": "Kaiwi",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_810d27a84016",
+        "value": "Kalama",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_60a6e11ffeff",
+        "value": "Kalani",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_c37d565e3567",
+        "value": "Kalawaiʻa",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_0c1c4cdb49bc",
+        "value": "Kalili",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_9b00fee66039",
+        "value": "Kalua",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_f38cf8c00a25",
+        "value": "Kama",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_cb6fe61e75fb",
+        "value": "Kamaka",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_9b2fff6038f0",
+        "value": "Kameāloha",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_ebe8539546cb",
+        "value": "Kapule",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_e8498ce65326",
+        "value": "Kawai",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_a4577a0dd270",
+        "value": "Kaʻanāʻanā",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_1b3c288971ec",
+        "value": "Kaʻaukai",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_495a59b3733b",
+        "value": "Kaʻuhane",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_4ddbcfaa4733",
+        "value": "Keahi",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_817c7cb5c587",
+        "value": "Kealoha",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_ac58b3bc4a97",
+        "value": "Keawe",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_01b7b500bbcf",
+        "value": "Kekoa",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_d28c894a22ba",
+        "value": "Keliʻi",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_b7b4719e0d38",
+        "value": "Kāne",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_ce1212c03ece",
+        "value": "Mahelona",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_55ae2a68e106",
+        "value": "Mahiʻai",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_9b13a1844e03",
+        "value": "Māhoe",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      },
+      {
+        "id": "family_716f847bd4ed",
+        "value": "ʻŌpūnui",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "hawaiian_source.json#haw_family"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": [
+          {
+            "reference": "haw_family",
+            "gender_basis": "not_specified"
+          }
+        ]
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "hawaiian_all",
+      "source": "hawaiian_source.json",
+      "entrypoint": "hawaiian_all/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "hawaiian_all/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_757db46ab1d1",
+            "given_9dcfba6499d4",
+            "given_ae8f79342e2c",
+            "given_2b0f0e14ce66",
+            "given_a6075919756c",
+            "given_89a1a23f5135",
+            "given_a8225a8529b6",
+            "given_8dcfb993710e",
+            "given_17d0b58f069a",
+            "given_c118caa5112a",
+            "given_bba5371f7b66",
+            "given_f10f2026aa2f",
+            "given_f241ed51da2a",
+            "given_ba9ec096401b",
+            "given_e39848dd8385",
+            "given_7d26de2a9861",
+            "given_abfca3d35888",
+            "given_8624793e0836",
+            "given_4d904c25edad",
+            "given_c8454794b073",
+            "given_4db2d4b2e299",
+            "given_36f6ff8ee4ea",
+            "given_be1a5265f671",
+            "given_5d8246919563",
+            "given_ce2ae03f8591",
+            "given_22b01d56d773",
+            "given_fcb0960bfa7a",
+            "given_9ea28220bc29",
+            "given_d08a0eb5f84e",
+            "given_38bc65c8377f",
+            "given_d14a196091b8",
+            "given_1d9fcc99b019",
+            "given_58f03bca3909",
+            "given_5a370a15bd93",
+            "given_da937655e781",
+            "given_a21066ec905c",
+            "given_fd872ba12f94",
+            "given_853ee56643f2",
+            "given_85df0e9e395d",
+            "given_420c13d70309"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "hawaiian_all/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_44b7084b4c65",
+            "family_15fb109e6e13",
+            "family_c75c67e5a6a3",
+            "family_ad14dca0939f",
+            "family_07c09c750e6c",
+            "family_1c823550a669",
+            "family_bd4a0e08a176",
+            "family_810d27a84016",
+            "family_60a6e11ffeff",
+            "family_c37d565e3567",
+            "family_0c1c4cdb49bc",
+            "family_9b00fee66039",
+            "family_f38cf8c00a25",
+            "family_cb6fe61e75fb",
+            "family_9b2fff6038f0",
+            "family_b7b4719e0d38",
+            "family_ebe8539546cb",
+            "family_e8498ce65326",
+            "family_a4577a0dd270",
+            "family_1b3c288971ec",
+            "family_495a59b3733b",
+            "family_4ddbcfaa4733",
+            "family_817c7cb5c587",
+            "family_ac58b3bc4a97",
+            "family_01b7b500bbcf",
+            "family_d28c894a22ba",
+            "family_ce1212c03ece",
+            "family_55ae2a68e106",
+            "family_9b13a1844e03",
+            "family_716f847bd4ed"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "hawaiian_all/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "hawaiian_all/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "hawaiian_all/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "hawaiian_male",
+      "source": "hawaiian_source.json",
+      "entrypoint": "hawaiian_male/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "hawaiian_male/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_757db46ab1d1",
+            "given_9dcfba6499d4",
+            "given_ae8f79342e2c",
+            "given_2b0f0e14ce66",
+            "given_a6075919756c",
+            "given_89a1a23f5135",
+            "given_a8225a8529b6",
+            "given_8dcfb993710e",
+            "given_17d0b58f069a",
+            "given_c118caa5112a",
+            "given_bba5371f7b66",
+            "given_f10f2026aa2f",
+            "given_f241ed51da2a",
+            "given_ba9ec096401b",
+            "given_e39848dd8385",
+            "given_38bc65c8377f",
+            "given_d14a196091b8",
+            "given_1d9fcc99b019",
+            "given_58f03bca3909",
+            "given_5a370a15bd93",
+            "given_da937655e781",
+            "given_a21066ec905c",
+            "given_fd872ba12f94",
+            "given_853ee56643f2",
+            "given_85df0e9e395d",
+            "given_420c13d70309"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "hawaiian_male/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_44b7084b4c65",
+            "family_15fb109e6e13",
+            "family_c75c67e5a6a3",
+            "family_ad14dca0939f",
+            "family_07c09c750e6c",
+            "family_1c823550a669",
+            "family_bd4a0e08a176",
+            "family_810d27a84016",
+            "family_60a6e11ffeff",
+            "family_c37d565e3567",
+            "family_0c1c4cdb49bc",
+            "family_9b00fee66039",
+            "family_f38cf8c00a25",
+            "family_cb6fe61e75fb",
+            "family_9b2fff6038f0",
+            "family_b7b4719e0d38",
+            "family_ebe8539546cb",
+            "family_e8498ce65326",
+            "family_a4577a0dd270",
+            "family_1b3c288971ec",
+            "family_495a59b3733b",
+            "family_4ddbcfaa4733",
+            "family_817c7cb5c587",
+            "family_ac58b3bc4a97",
+            "family_01b7b500bbcf",
+            "family_d28c894a22ba",
+            "family_ce1212c03ece",
+            "family_55ae2a68e106",
+            "family_9b13a1844e03",
+            "family_716f847bd4ed"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "hawaiian_male/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "hawaiian_male/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "hawaiian_male/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "hawaiian_female",
+      "source": "hawaiian_source.json",
+      "entrypoint": "hawaiian_female/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "hawaiian_female/given": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_7d26de2a9861",
+            "given_abfca3d35888",
+            "given_8624793e0836",
+            "given_4d904c25edad",
+            "given_c8454794b073",
+            "given_4db2d4b2e299",
+            "given_36f6ff8ee4ea",
+            "given_be1a5265f671",
+            "given_5d8246919563",
+            "given_ce2ae03f8591",
+            "given_22b01d56d773",
+            "given_fcb0960bfa7a",
+            "given_9ea28220bc29",
+            "given_d08a0eb5f84e",
+            "given_38bc65c8377f",
+            "given_d14a196091b8",
+            "given_1d9fcc99b019",
+            "given_58f03bca3909",
+            "given_5a370a15bd93",
+            "given_da937655e781",
+            "given_a21066ec905c",
+            "given_fd872ba12f94",
+            "given_853ee56643f2",
+            "given_85df0e9e395d",
+            "given_420c13d70309"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "hawaiian_female/family": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_44b7084b4c65",
+            "family_15fb109e6e13",
+            "family_c75c67e5a6a3",
+            "family_ad14dca0939f",
+            "family_07c09c750e6c",
+            "family_1c823550a669",
+            "family_bd4a0e08a176",
+            "family_810d27a84016",
+            "family_60a6e11ffeff",
+            "family_c37d565e3567",
+            "family_0c1c4cdb49bc",
+            "family_9b00fee66039",
+            "family_f38cf8c00a25",
+            "family_cb6fe61e75fb",
+            "family_9b2fff6038f0",
+            "family_b7b4719e0d38",
+            "family_ebe8539546cb",
+            "family_e8498ce65326",
+            "family_a4577a0dd270",
+            "family_1b3c288971ec",
+            "family_495a59b3733b",
+            "family_4ddbcfaa4733",
+            "family_817c7cb5c587",
+            "family_ac58b3bc4a97",
+            "family_01b7b500bbcf",
+            "family_d28c894a22ba",
+            "family_ce1212c03ece",
+            "family_55ae2a68e106",
+            "family_9b13a1844e03",
+            "family_716f847bd4ed"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "hawaiian_female/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "hawaiian_female/given",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "hawaiian_female/family",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "hawaiian_source.json",
+      "encoding": "UTF-8",
+      "sha256": "183823d3a7e2fa44626a4ccf2ef41cf7862d1482cdd00dd5bf14e32a7ea5f73e",
+      "references": [
+        {
+          "id": "haw_given",
+          "title": "Wiktionary contributors: Appendix:Hawaiian given names",
+          "url": "https://en.wiktionary.org/wiki/Appendix:Hawaiian_given_names",
+          "accessed": "2026-11-02",
+          "coverage": "Small, uneven Oahu-centred survey; observed usage is not an exclusive gender rule. Source warns its underlying survey omitted macrons.",
+          "license": "CC BY-SA 4.0; selected name facts only; attribution and source links retained"
+        },
+        {
+          "id": "haw_family",
+          "title": "Wiktionary contributors: Category:Hawaiian surnames",
+          "url": "https://en.wiktionary.org/wiki/Category:Hawaiian_surnames",
+          "accessed": "2026-11-02",
+          "coverage": "Selected Hawaiian surname entries; category membership establishes role, not frequency.",
+          "license": "CC BY-SA 4.0; selected name facts only; attribution and source links retained"
+        },
+        {
+          "id": "haw_orthography",
+          "title": "University of Hawaii: Hawaiian Language Considerations",
+          "url": "https://www.hawaii.edu/offices/communications/standards/hawaiian-language-considerations/",
+          "accessed": "2026-11-02",
+          "coverage": "Orthographic guidance"
+        }
+      ]
+    }
+  ]
+}

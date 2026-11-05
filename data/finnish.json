@@ -1,0 +1,1546 @@
+{
+  "format": "sr-namebot/1",
+  "id": "finnish",
+  "label": "Finnish",
+  "language": "fi",
+  "kind": "language",
+  "status": "imported",
+  "profiles": [
+    {
+      "id": "default",
+      "label": "Finnish",
+      "status": "source_labelled",
+      "eligible_profile_tags": [
+        "shared"
+      ],
+      "name_order": [
+        "given",
+        "family"
+      ]
+    }
+  ],
+  "pools": {
+    "given": [
+      {
+        "id": "given_0472160e1077",
+        "value": "Annikki",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5aff2908fb6e",
+        "value": "Antti",
+        "weight": 1,
+        "genders": [
+          "female",
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE",
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 2
+      },
+      {
+        "id": "given_14c13569189b",
+        "value": "Anttiri",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2cc533c33603",
+        "value": "Dorotea",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f0d533761192",
+        "value": "Eeva",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a91a8e34d973",
+        "value": "Eikki",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b28c18855cad",
+        "value": "Heikki",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d7b8735b815e",
+        "value": "Heikkinen",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_1b057b157948",
+        "value": "Helli",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a275ae318204",
+        "value": "Hietamaki",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_cc5bd2ca6593",
+        "value": "Ilmarinen",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_086dadbb4998",
+        "value": "Ingria",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5ce29a027103",
+        "value": "Inkeri",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6e354a90c4c3",
+        "value": "Jaakkina",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_f50a0a3659d7",
+        "value": "Jani",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_23c2be53b6ad",
+        "value": "Janne",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d2501756b8f8",
+        "value": "Jarvi",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_358920909228",
+        "value": "Johan",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b206abe3c6cf",
+        "value": "Joki",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_7dcf0508f5eb",
+        "value": "Joosef",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_7f3b0ab0fe1f",
+        "value": "Joosep",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5b5d4a4ba122",
+        "value": "Jorma",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_33dd6bc3d2b5",
+        "value": "Jukka",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_11aae29171c3",
+        "value": "Jurma",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_cc4b390b7f87",
+        "value": "Jussi",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6f3cbcb2c6ec",
+        "value": "Kaarl",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ba5efdd0c12e",
+        "value": "Kaarle",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5282264774e1",
+        "value": "Kaarlo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_69a5e11730b9",
+        "value": "Kaisa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d407a5a8bb03",
+        "value": "Kal",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_dab5ac29b785",
+        "value": "Kalevi",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3f582a812b0f",
+        "value": "Kalle",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_65fd668bb4e3",
+        "value": "Kalwa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4091a631be35",
+        "value": "Katri",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_90f7cb3d45af",
+        "value": "Katrikki",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d563c15b45ff",
+        "value": "Katrina",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c2c4e936faec",
+        "value": "Kerttu",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d46d0e407995",
+        "value": "Kirkkomaki",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5e1d15079007",
+        "value": "Kivi",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b21a2dfb04e3",
+        "value": "Kyllikki",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_98be863d7930",
+        "value": "Laila",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_335c0336a2c6",
+        "value": "Leppa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_5a6126210c5a",
+        "value": "Liisa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b13b17dbbc8f",
+        "value": "Lippo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6749d0924fe8",
+        "value": "Maiju",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_2d0099a1e68b",
+        "value": "Maikki",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3f924da86e18",
+        "value": "Maki",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a8d70ba882b0",
+        "value": "Mielikki",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b18d9853179a",
+        "value": "Mirjam",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_99407c3e36d4",
+        "value": "Mustanen",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3c9f8e811b79",
+        "value": "Niles",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_323e13a4c509",
+        "value": "Oskari",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_179b30a7bc3f",
+        "value": "Paaveli",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a758c37f1af4",
+        "value": "Paavo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_96540e4b08cf",
+        "value": "Parttyli",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_54f94db6b521",
+        "value": "Pekka",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_306d76761abe",
+        "value": "Rikka",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_50f8b510bc56",
+        "value": "Rikkard",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_a8e53ada26ae",
+        "value": "Risto",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_0cf87baaf542",
+        "value": "Russu",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_256d21fa1444",
+        "value": "Ruta",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6b278ffd29c1",
+        "value": "Rute",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_7da447a85621",
+        "value": "Ruusu",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_fc1647f8e747",
+        "value": "Seppanen",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_4f45828d3cb2",
+        "value": "Severi",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3a0a6dabef75",
+        "value": "Taavetti",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b6fc513cfbd3",
+        "value": "Taavi",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_30af25f11d34",
+        "value": "Talo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_c6561aaa20a5",
+        "value": "Taneli",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_95f6ad4d0d68",
+        "value": "Tapio",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d8ce372c06f3",
+        "value": "Teppo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_ebd10459049a",
+        "value": "Tuomas",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_3381ba2a8469",
+        "value": "Vaino",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_b3f006b84fee",
+        "value": "Valkoinen",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_54352ad42b96",
+        "value": "Vappu",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_d1fc157d6933",
+        "value": "Vellamo",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#FEMALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_286b641764e1",
+        "value": "Viljo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "given_6a991ab6ee07",
+        "value": "Yrjo",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#MALE"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ],
+    "family": [
+      {
+        "id": "family_ac7becfcc21f",
+        "value": "Heikkinen",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_80236d5064fe",
+        "value": "Hietamaki",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_d6833dd50511",
+        "value": "Joki",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_3c8e482f81a1",
+        "value": "Kipelainan",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_20c62a2c4cd2",
+        "value": "Kirkkomaki",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_4e31b2e1b338",
+        "value": "Kivi",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_e8f454487907",
+        "value": "Miettlinen",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_5666db1e6225",
+        "value": "Mustanen",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_9b7bcab82064",
+        "value": "Seppanen",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      },
+      {
+        "id": "family_6f8f5e3c6492",
+        "value": "Valkoinen",
+        "weight": 1,
+        "genders": [],
+        "profiles": [
+          "shared"
+        ],
+        "sources": [
+          "Finnish.nam#LAST NAMES"
+        ],
+        "variants": [],
+        "source_occurrences": 1
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "finnish",
+      "source": "Finnish.nam",
+      "entrypoint": null,
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "finnish/MALE": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_5aff2908fb6e",
+            "given_a91a8e34d973",
+            "given_b28c18855cad",
+            "given_d7b8735b815e",
+            "given_a275ae318204",
+            "given_f50a0a3659d7",
+            "given_358920909228",
+            "given_cc4b390b7f87",
+            "given_33dd6bc3d2b5",
+            "given_d2501756b8f8",
+            "given_b206abe3c6cf",
+            "given_7f3b0ab0fe1f",
+            "given_7dcf0508f5eb",
+            "given_5b5d4a4ba122",
+            "given_ba5efdd0c12e",
+            "given_6f3cbcb2c6ec",
+            "given_5282264774e1",
+            "given_3f582a812b0f",
+            "given_d407a5a8bb03",
+            "given_dab5ac29b785",
+            "given_d46d0e407995",
+            "given_5e1d15079007",
+            "given_b13b17dbbc8f",
+            "given_3f924da86e18",
+            "given_99407c3e36d4",
+            "given_3c9f8e811b79",
+            "given_323e13a4c509",
+            "given_a758c37f1af4",
+            "given_179b30a7bc3f",
+            "given_54f94db6b521",
+            "given_50f8b510bc56",
+            "given_a8e53ada26ae",
+            "given_fc1647f8e747",
+            "given_4f45828d3cb2",
+            "given_b6fc513cfbd3",
+            "given_3a0a6dabef75",
+            "given_30af25f11d34",
+            "given_c6561aaa20a5",
+            "given_95f6ad4d0d68",
+            "given_d8ce372c06f3",
+            "given_ebd10459049a",
+            "given_3381ba2a8469",
+            "given_b3f006b84fee",
+            "given_54352ad42b96",
+            "given_286b641764e1",
+            "given_6a991ab6ee07"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "finnish/FEMALE": {
+          "mode": "pool",
+          "pool": "given",
+          "entries": [
+            "given_0472160e1077",
+            "given_5aff2908fb6e",
+            "given_14c13569189b",
+            "given_2cc533c33603",
+            "given_f0d533761192",
+            "given_1b057b157948",
+            "given_cc5bd2ca6593",
+            "given_086dadbb4998",
+            "given_5ce29a027103",
+            "given_6e354a90c4c3",
+            "given_23c2be53b6ad",
+            "given_11aae29171c3",
+            "given_65fd668bb4e3",
+            "given_d563c15b45ff",
+            "given_69a5e11730b9",
+            "given_4091a631be35",
+            "given_90f7cb3d45af",
+            "given_c2c4e936faec",
+            "given_b21a2dfb04e3",
+            "given_98be863d7930",
+            "given_335c0336a2c6",
+            "given_5a6126210c5a",
+            "given_2d0099a1e68b",
+            "given_6749d0924fe8",
+            "given_a8d70ba882b0",
+            "given_b18d9853179a",
+            "given_96540e4b08cf",
+            "given_306d76761abe",
+            "given_0cf87baaf542",
+            "given_7da447a85621",
+            "given_6b278ffd29c1",
+            "given_256d21fa1444",
+            "given_d1fc157d6933"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "finnish/LAST NAMES": {
+          "mode": "pool",
+          "pool": "family",
+          "entries": [
+            "family_ac7becfcc21f",
+            "family_80236d5064fe",
+            "family_d6833dd50511",
+            "family_3c8e482f81a1",
+            "family_20c62a2c4cd2",
+            "family_4e31b2e1b338",
+            "family_e8f454487907",
+            "family_5666db1e6225",
+            "family_9b7bcab82064",
+            "family_6f8f5e3c6492"
+          ],
+          "weighting": "uniform_unique_entries"
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "Finnish.nam",
+      "sha256": "c8e3f266b77187ec0202a521517dd59ccfad5ae17946e2a4e8fb6534cdaebe44",
+      "encoding": "UTF-8"
+    }
+  ]
+}

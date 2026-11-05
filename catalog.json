@@ -1,0 +1,314 @@
+{
+  "format": "sr-namebot/1",
+  "project": "SR1e-3e Namebot",
+  "date": "2026-11-04",
+  "source_files": 44,
+  "input_pool_rows": 53709,
+  "unique_pool_records": 48495,
+  "duplicate_pool_rows_merged": 5214,
+  "populated_resources": 32,
+  "awaiting_source_data": [],
+  "source_archive_sha256": "2bcb1ba6a0d95b271168e90c2082b5e753f1c2c02a53c6593b7c7343d782a1f9",
+  "resources": [
+    {
+      "id": "ancient_greek",
+      "file": "data/ancient_greek.json",
+      "status": "imported",
+      "records": 227,
+      "source_files": [
+        "Ancient Greek.nam"
+      ]
+    },
+    {
+      "id": "basque",
+      "file": "data/basque.json",
+      "status": "imported",
+      "records": 1281,
+      "source_files": [
+        "Basque.nam"
+      ]
+    },
+    {
+      "id": "chinese",
+      "file": "data/chinese.json",
+      "status": "imported",
+      "records": 2057,
+      "source_files": [
+        "ChineseNames.ipt"
+      ]
+    },
+    {
+      "id": "danish",
+      "file": "data/danish.json",
+      "status": "imported",
+      "records": 861,
+      "source_files": [
+        "Danish.nam",
+        "DanishNames.ipt"
+      ]
+    },
+    {
+      "id": "dutch",
+      "file": "data/dutch.json",
+      "status": "imported",
+      "records": 2275,
+      "source_files": [
+        "Dutch.nam",
+        "DutchNames.ipt"
+      ]
+    },
+    {
+      "id": "egyptian_legacy",
+      "file": "data/egyptian_legacy.json",
+      "status": "imported",
+      "records": 375,
+      "source_files": [
+        "Egyptian.nam"
+      ]
+    },
+    {
+      "id": "english",
+      "file": "data/english.json",
+      "status": "imported",
+      "records": 2187,
+      "source_files": [
+        "American.nam",
+        "English.nam",
+        "EnglishNames.ipt",
+        "english_regional_source.json"
+      ]
+    },
+    {
+      "id": "filipino",
+      "file": "data/filipino.json",
+      "status": "imported",
+      "records": 50,
+      "source_files": [
+        "filipino_source.json"
+      ]
+    },
+    {
+      "id": "finnish",
+      "file": "data/finnish.json",
+      "status": "imported",
+      "records": 88,
+      "source_files": [
+        "Finnish.nam"
+      ]
+    },
+    {
+      "id": "french",
+      "file": "data/french.json",
+      "status": "imported",
+      "records": 2282,
+      "source_files": [
+        "FrenchNames.ipt"
+      ]
+    },
+    {
+      "id": "gangs",
+      "file": "data/gangs.json",
+      "status": "imported",
+      "records": 115,
+      "source_files": [
+        "Gangs.nam"
+      ]
+    },
+    {
+      "id": "german",
+      "file": "data/german.json",
+      "status": "imported",
+      "records": 3401,
+      "source_files": [
+        "German.nam",
+        "GermanNames.ipt"
+      ]
+    },
+    {
+      "id": "halfling",
+      "file": "data/halfling.json",
+      "status": "imported",
+      "records": 127,
+      "source_files": [
+        "halfling.nam"
+      ]
+    },
+    {
+      "id": "hawaiian",
+      "file": "data/hawaiian.json",
+      "status": "imported",
+      "records": 70,
+      "source_files": [
+        "hawaiian_source.json"
+      ]
+    },
+    {
+      "id": "hindi_legacy",
+      "file": "data/hindi_legacy.json",
+      "status": "imported",
+      "records": 892,
+      "source_files": [
+        "Hindi 2.nam",
+        "Hindi.nam"
+      ]
+    },
+    {
+      "id": "indian_legacy",
+      "file": "data/indian_legacy.json",
+      "status": "imported",
+      "records": 510,
+      "source_files": [
+        "Indian.nam"
+      ]
+    },
+    {
+      "id": "irish",
+      "file": "data/irish.json",
+      "status": "imported",
+      "records": 3047,
+      "source_files": [
+        "Irish.nam",
+        "IrishName.ipt"
+      ]
+    },
+    {
+      "id": "italian",
+      "file": "data/italian.json",
+      "status": "imported",
+      "records": 4619,
+      "source_files": [
+        "Italian.nam",
+        "ItalianName.ipt"
+      ]
+    },
+    {
+      "id": "japanese",
+      "file": "data/japanese.json",
+      "status": "imported",
+      "records": 3410,
+      "source_files": [
+        "Japanese.nam",
+        "JapaneseName.ipt",
+        "JapaneseNames.ipt"
+      ]
+    },
+    {
+      "id": "khmer",
+      "file": "data/khmer.json",
+      "status": "imported",
+      "records": 71,
+      "source_files": [
+        "khmer_source.json"
+      ]
+    },
+    {
+      "id": "latin",
+      "file": "data/latin.json",
+      "status": "imported",
+      "records": 104,
+      "source_files": [
+        "latin_roman_source.json"
+      ]
+    },
+    {
+      "id": "native_american_legacy",
+      "file": "data/native_american_legacy.json",
+      "status": "imported",
+      "records": 116,
+      "source_files": [
+        "Native American.nam"
+      ]
+    },
+    {
+      "id": "norwegian",
+      "file": "data/norwegian.json",
+      "status": "imported",
+      "records": 619,
+      "source_files": [
+        "NorwegianNames.ipt"
+      ]
+    },
+    {
+      "id": "old_norse",
+      "file": "data/old_norse.json",
+      "status": "imported",
+      "records": 6646,
+      "source_files": [
+        "Old Norse Names.ipt"
+      ]
+    },
+    {
+      "id": "polish",
+      "file": "data/polish.json",
+      "status": "imported",
+      "records": 1745,
+      "source_files": [
+        "PolishNames.ipt"
+      ]
+    },
+    {
+      "id": "portuguese",
+      "file": "data/portuguese.json",
+      "status": "imported",
+      "records": 1932,
+      "source_files": [
+        "PortugueseNames.ipt"
+      ]
+    },
+    {
+      "id": "russian",
+      "file": "data/russian.json",
+      "status": "imported",
+      "records": 2309,
+      "source_files": [
+        "RussianNames.ipt"
+      ]
+    },
+    {
+      "id": "scottish",
+      "file": "data/scottish.json",
+      "status": "imported",
+      "records": 481,
+      "source_files": [
+        "ScottishNames.ipt"
+      ]
+    },
+    {
+      "id": "spanish",
+      "file": "data/spanish.json",
+      "status": "imported",
+      "records": 2704,
+      "source_files": [
+        "SpanishNames.ipt"
+      ]
+    },
+    {
+      "id": "swedish",
+      "file": "data/swedish.json",
+      "status": "imported",
+      "records": 360,
+      "source_files": [
+        "SwedishNames.ipt"
+      ]
+    },
+    {
+      "id": "technical_english",
+      "file": "data/technical_english.json",
+      "status": "imported",
+      "records": 1153,
+      "source_files": [
+        "Geordi_Gizmo_Company.ipt",
+        "Geordi_Gizmo_Science.ipt"
+      ]
+    },
+    {
+      "id": "turkish",
+      "file": "data/turkish.json",
+      "status": "imported",
+      "records": 2381,
+      "source_files": [
+        "TurkishNames.ipt"
+      ]
+    }
+  ]
+}

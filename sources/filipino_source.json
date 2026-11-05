@@ -1,0 +1,404 @@
+{
+  "id": "filipino",
+  "label": "Filipino / Philippines",
+  "language": "und",
+  "locale": "fil-PH",
+  "kind": "category",
+  "scope": "Contemporary Philippine naming sample across language origins; not exclusively Tagalog or Filipino-language names",
+  "order": [
+    "given",
+    "maternal_family",
+    "family"
+  ],
+  "references": [
+    {
+      "id": "ph_given",
+      "title": "Philippine Statistics Authority: Most Common Baby Names of 2023",
+      "url": "https://psa.gov.ph/sites/default/files/infographics/4_2023%20Common%20Baby%20Names_Infographics-signed.pdf",
+      "accessed": "2026-11-02",
+      "coverage": "Top ten registered names per sex in 2023, exact spellings"
+    },
+    {
+      "id": "ph_family",
+      "title": "Wikipedia contributors: List of most common surnames in Asian countries, Philippines",
+      "url": "https://en.wikipedia.org/wiki/List_of_most_common_surnames_in_Asia#Philippines",
+      "accessed": "2026-11-02",
+      "coverage": "Twenty listed surname spellings; rankings and origin assertions are not imported.",
+      "license": "CC BY-SA 4.0; selected name facts only; attribution and source links retained"
+    },
+    {
+      "id": "ph_conventions",
+      "title": "Nina Evason: Filipino Naming, Cultural Atlas",
+      "url": "https://theculturalatlas.org/filipino-culture/filipino-culture-naming",
+      "accessed": "2026-11-02",
+      "coverage": "Common personal + maternal-family + paternal-family pattern, plus named examples"
+    }
+  ],
+  "notes": [
+    "The default follows a common birth-name pattern. It does not cover every Philippine community, legal circumstance or married-name choice.",
+    "Maternal and paternal surname slots draw from the same family pool without duplicating storage. Each multiword surname is kept intact.",
+    "Baby-name data reflects 2023 births; older examples are sourced separately. Uniform weights are not population frequencies."
+  ],
+  "records": [
+    {
+      "value": "Nathaniel",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Gabriel",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Jacob",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Ezekiel",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Ethan",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Nathan",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Matthew",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Liam",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Jayden",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Noah",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Althea",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Angel",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Zoey",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Chloe",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Nathalie",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Sofia",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Zia",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Princess",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Samantha",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Ayesha",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_given"
+    },
+    {
+      "value": "Jose Mario",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "Miguel",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "Manolito",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "James",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "Joshua",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "Maria",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "Manolita",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "Corazon",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "Rosario",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "Angela",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "ph_conventions"
+    },
+    {
+      "value": "dela Cruz",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Garcia",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Reyes",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Ramos",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Mendoza",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Santos",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Flores",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Gonzales",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Bautista",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Villanueva",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Fernandez",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Cruz",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "de Guzman",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Lopez",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Perez",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Castillo",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Francisco",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Rivera",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Aquino",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    },
+    {
+      "value": "Castro",
+      "role": "family",
+      "genders": [],
+      "reference": "ph_family"
+    }
+  ]
+}

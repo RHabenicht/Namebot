@@ -1,0 +1,2284 @@
+{
+  "format": "sr-namebot/1",
+  "id": "latin",
+  "label": "Latin — Roman citizen names",
+  "language": "la",
+  "kind": "language",
+  "status": "imported",
+  "scope": "Roman citizens, first and second centuries CE; fictional combinations of sourced elements",
+  "profiles": [
+    {
+      "id": "roman_male",
+      "label": "Roman citizen — male",
+      "genders": [
+        "male"
+      ],
+      "status": "curated",
+      "eligible_profile_tags": [
+        "roman_male"
+      ],
+      "name_order": [
+        "praenomen",
+        "nomen",
+        "cognomen"
+      ],
+      "program": "roman_male"
+    },
+    {
+      "id": "roman_female",
+      "label": "Roman citizen — female",
+      "genders": [
+        "female"
+      ],
+      "status": "curated",
+      "eligible_profile_tags": [
+        "roman_female"
+      ],
+      "name_order": [
+        "nomen",
+        "cognomen"
+      ],
+      "program": "roman_female"
+    }
+  ],
+  "pools": {
+    "praenomen_male": [
+      {
+        "id": "praenomen_male_4496fafeda95",
+        "value": "Appius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_890bb6a2d281",
+        "value": "Aulus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_d177d87ff84a",
+        "value": "Decimus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_f65e5618260e",
+        "value": "Gaius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_c24a5af8d30a",
+        "value": "Gnaeus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_27e0659d92fa",
+        "value": "Lucius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_cc296039b263",
+        "value": "Manius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_245536acb08b",
+        "value": "Marcus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_d68d192c8ced",
+        "value": "Numerius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_1bb31d3f4012",
+        "value": "Publius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_b1c44c00f06f",
+        "value": "Quintus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_670c9687f668",
+        "value": "Servius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_9dcfeb0f440c",
+        "value": "Sextus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_2d3059d15df9",
+        "value": "Spurius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_8a089126a93a",
+        "value": "Tiberius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "praenomen_male_070694bfa677",
+        "value": "Titus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#praenomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      }
+    ],
+    "nomen_male": [
+      {
+        "id": "nomen_male_0a459cc2eeee",
+        "value": "Aelius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_3e6d58a73c32",
+        "value": "Aemilius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_0c365e77c922",
+        "value": "Annius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_e0c6277f17c9",
+        "value": "Antonius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_f8bc9b9176b8",
+        "value": "Aurelius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_de9f6026276e",
+        "value": "Caecilius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_75d3ee640f45",
+        "value": "Calpurnius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_8a18d7084021",
+        "value": "Claudius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_f4a365ce1dd7",
+        "value": "Cornelius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_02af5da418ec",
+        "value": "Domitius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_4f37ace382e8",
+        "value": "Fabius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_3f597e1a7dcd",
+        "value": "Flavius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_576c2789520c",
+        "value": "Fulvius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_6f06f5ad81b8",
+        "value": "Iulius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_adee182ac61b",
+        "value": "Licinius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_78071ce34f92",
+        "value": "Livius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_3168f3903d72",
+        "value": "Marcius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_73bee33d9b39",
+        "value": "Octavius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_ee3deaefc745",
+        "value": "Petronius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_7a2b46d3c57d",
+        "value": "Pompeius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_2a9a3e2a17a5",
+        "value": "Servilius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_32606af00f3f",
+        "value": "Tullius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_6fd0b975b3dd",
+        "value": "Ulpius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "nomen_male_d5d506591209",
+        "value": "Valerius",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      }
+    ],
+    "cognomen_male": [
+      {
+        "id": "cognomen_male_1e45a05e188f",
+        "value": "Antoninus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_741f16e1c242",
+        "value": "Bassus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_683e0aa15855",
+        "value": "Candidus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_9343a7f0c4a9",
+        "value": "Castus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_8882d3ff53d6",
+        "value": "Crispus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_0c0c86dbf7f7",
+        "value": "Donatus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_445b7a493d9b",
+        "value": "Faustus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_cb01565422a8",
+        "value": "Firmus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_79e8084f4f65",
+        "value": "Fortunatus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_6be065cbf983",
+        "value": "Fuscus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_e8ab4f9d1faf",
+        "value": "Iulianus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_f645d5dd400e",
+        "value": "Iustus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_271d6ab5259c",
+        "value": "Longinus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_c70470565292",
+        "value": "Marcellus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_86d3f425952b",
+        "value": "Maximus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_f7c1df5c170c",
+        "value": "Priscus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_d9c8b0f3e3c5",
+        "value": "Rufus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_f7552a53aa5e",
+        "value": "Sabinus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_1254dfab2ae5",
+        "value": "Secundus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      },
+      {
+        "id": "cognomen_male_8336acd86bec",
+        "value": "Severus",
+        "weight": 1,
+        "genders": [
+          "male"
+        ],
+        "profiles": [
+          "roman_male"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "listed_in_reference",
+        "reference": "georges"
+      }
+    ],
+    "nomen_female": [
+      {
+        "id": "nomen_female_4af82466a0a9",
+        "value": "Aelia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Aelius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_8356e78936d0",
+        "value": "Aemilia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Aemilius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_8ed952ea6109",
+        "value": "Annia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Annius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_a56d0d41108f",
+        "value": "Antonia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Antonius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_031f7c5371f6",
+        "value": "Aurelia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Aurelius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_18a0566f14e6",
+        "value": "Caecilia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Caecilius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_b33ad8cb48b6",
+        "value": "Calpurnia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Calpurnius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_7586bf4da0b4",
+        "value": "Claudia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Claudius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_e7bd567952e5",
+        "value": "Cornelia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Cornelius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_07408432c446",
+        "value": "Domitia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Domitius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_67dddb17361d",
+        "value": "Fabia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Fabius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_8cea85785136",
+        "value": "Flavia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Flavius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_f2ca68ac4d32",
+        "value": "Fulvia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Fulvius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_c1d10bba2848",
+        "value": "Iulia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Iulius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_023e1dfaf8a9",
+        "value": "Licinia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Licinius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_5bf62aa76e31",
+        "value": "Livia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Livius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_10191d63ed09",
+        "value": "Marcia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Marcius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_e5b3dfe4ee10",
+        "value": "Octavia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Octavius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_744c174ea77e",
+        "value": "Petronia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Petronius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_51e9078e5b77",
+        "value": "Pompeia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Pompeius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_08d867f0e06c",
+        "value": "Servilia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Servilius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_de35af40f941",
+        "value": "Tullia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Tullius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_a86b87b4b190",
+        "value": "Ulpia",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Ulpius",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "nomen_female_69a6f8fa8a7d",
+        "value": "Valeria",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#nomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Valerius",
+        "derivation": "final us -> a; selected regular forms only"
+      }
+    ],
+    "cognomen_female": [
+      {
+        "id": "cognomen_female_511880da6b0a",
+        "value": "Antonina",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Antoninus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_39ff0d28c520",
+        "value": "Bassa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Bassus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_693e86c368ae",
+        "value": "Candida",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Candidus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_6c4002a93c99",
+        "value": "Casta",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Castus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_cd63f22997f2",
+        "value": "Crispa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Crispus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_596b3e1d94ac",
+        "value": "Donata",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Donatus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_92aab573e3d8",
+        "value": "Fausta",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Faustus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_2cbca3bc05b9",
+        "value": "Firma",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Firmus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_9517ba9e2b76",
+        "value": "Fortunata",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Fortunatus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_a06c40e518ab",
+        "value": "Fusca",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Fuscus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_82606b5e37e1",
+        "value": "Iuliana",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Iulianus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_8b55ab49138c",
+        "value": "Iusta",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Iustus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_9b3962beeddd",
+        "value": "Longina",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Longinus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_a1375a961da3",
+        "value": "Marcella",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Marcellus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_fbd2ff2d479e",
+        "value": "Maxima",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Maximus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_96cea649fcfc",
+        "value": "Prisca",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Priscus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_46212985c751",
+        "value": "Rufa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Rufus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_e948b44dd9cd",
+        "value": "Sabina",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Sabinus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_1d31437c88c6",
+        "value": "Secunda",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Secundus",
+        "derivation": "final us -> a; selected regular forms only"
+      },
+      {
+        "id": "cognomen_female_f34ae8ae9e21",
+        "value": "Severa",
+        "weight": 1,
+        "genders": [
+          "female"
+        ],
+        "profiles": [
+          "roman_female"
+        ],
+        "sources": [
+          "latin_roman_source.json#cognomen_male"
+        ],
+        "variants": [],
+        "source_occurrences": 1,
+        "evidence": "grammatically_derived",
+        "reference": "georges",
+        "derived_from": "Severus",
+        "derivation": "final us -> a; selected regular forms only"
+      }
+    ]
+  },
+  "programs": [
+    {
+      "id": "roman_male",
+      "source": "latin_roman_source.json",
+      "entrypoint": "roman_male/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "roman_male/praenomen": {
+          "mode": "pool",
+          "pool": "praenomen_male",
+          "entries": [
+            "praenomen_male_4496fafeda95",
+            "praenomen_male_890bb6a2d281",
+            "praenomen_male_d177d87ff84a",
+            "praenomen_male_f65e5618260e",
+            "praenomen_male_c24a5af8d30a",
+            "praenomen_male_27e0659d92fa",
+            "praenomen_male_cc296039b263",
+            "praenomen_male_245536acb08b",
+            "praenomen_male_d68d192c8ced",
+            "praenomen_male_1bb31d3f4012",
+            "praenomen_male_b1c44c00f06f",
+            "praenomen_male_670c9687f668",
+            "praenomen_male_9dcfeb0f440c",
+            "praenomen_male_2d3059d15df9",
+            "praenomen_male_8a089126a93a",
+            "praenomen_male_070694bfa677"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "roman_male/nomen": {
+          "mode": "pool",
+          "pool": "nomen_male",
+          "entries": [
+            "nomen_male_0a459cc2eeee",
+            "nomen_male_3e6d58a73c32",
+            "nomen_male_0c365e77c922",
+            "nomen_male_e0c6277f17c9",
+            "nomen_male_f8bc9b9176b8",
+            "nomen_male_de9f6026276e",
+            "nomen_male_75d3ee640f45",
+            "nomen_male_8a18d7084021",
+            "nomen_male_f4a365ce1dd7",
+            "nomen_male_02af5da418ec",
+            "nomen_male_4f37ace382e8",
+            "nomen_male_3f597e1a7dcd",
+            "nomen_male_576c2789520c",
+            "nomen_male_6f06f5ad81b8",
+            "nomen_male_adee182ac61b",
+            "nomen_male_78071ce34f92",
+            "nomen_male_3168f3903d72",
+            "nomen_male_73bee33d9b39",
+            "nomen_male_ee3deaefc745",
+            "nomen_male_7a2b46d3c57d",
+            "nomen_male_2a9a3e2a17a5",
+            "nomen_male_32606af00f3f",
+            "nomen_male_6fd0b975b3dd",
+            "nomen_male_d5d506591209"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "roman_male/cognomen": {
+          "mode": "pool",
+          "pool": "cognomen_male",
+          "entries": [
+            "cognomen_male_1e45a05e188f",
+            "cognomen_male_741f16e1c242",
+            "cognomen_male_683e0aa15855",
+            "cognomen_male_9343a7f0c4a9",
+            "cognomen_male_8882d3ff53d6",
+            "cognomen_male_0c0c86dbf7f7",
+            "cognomen_male_445b7a493d9b",
+            "cognomen_male_cb01565422a8",
+            "cognomen_male_79e8084f4f65",
+            "cognomen_male_6be065cbf983",
+            "cognomen_male_e8ab4f9d1faf",
+            "cognomen_male_f645d5dd400e",
+            "cognomen_male_271d6ab5259c",
+            "cognomen_male_c70470565292",
+            "cognomen_male_86d3f425952b",
+            "cognomen_male_f7c1df5c170c",
+            "cognomen_male_d9c8b0f3e3c5",
+            "cognomen_male_f7552a53aa5e",
+            "cognomen_male_1254dfab2ae5",
+            "cognomen_male_8336acd86bec"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "roman_male/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "roman_male/praenomen",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "roman_male/nomen",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "roman_male/cognomen",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "roman_female",
+      "source": "latin_roman_source.json",
+      "entrypoint": "roman_female/full_name",
+      "prompts": [],
+      "definitions": [],
+      "tables": {
+        "roman_female/nomen": {
+          "mode": "pool",
+          "pool": "nomen_female",
+          "entries": [
+            "nomen_female_4af82466a0a9",
+            "nomen_female_8356e78936d0",
+            "nomen_female_8ed952ea6109",
+            "nomen_female_a56d0d41108f",
+            "nomen_female_031f7c5371f6",
+            "nomen_female_18a0566f14e6",
+            "nomen_female_b33ad8cb48b6",
+            "nomen_female_7586bf4da0b4",
+            "nomen_female_e7bd567952e5",
+            "nomen_female_07408432c446",
+            "nomen_female_67dddb17361d",
+            "nomen_female_8cea85785136",
+            "nomen_female_f2ca68ac4d32",
+            "nomen_female_c1d10bba2848",
+            "nomen_female_023e1dfaf8a9",
+            "nomen_female_5bf62aa76e31",
+            "nomen_female_10191d63ed09",
+            "nomen_female_e5b3dfe4ee10",
+            "nomen_female_744c174ea77e",
+            "nomen_female_51e9078e5b77",
+            "nomen_female_08d867f0e06c",
+            "nomen_female_de35af40f941",
+            "nomen_female_a86b87b4b190",
+            "nomen_female_69a6f8fa8a7d"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "roman_female/cognomen": {
+          "mode": "pool",
+          "pool": "cognomen_female",
+          "entries": [
+            "cognomen_female_511880da6b0a",
+            "cognomen_female_39ff0d28c520",
+            "cognomen_female_693e86c368ae",
+            "cognomen_female_6c4002a93c99",
+            "cognomen_female_cd63f22997f2",
+            "cognomen_female_596b3e1d94ac",
+            "cognomen_female_92aab573e3d8",
+            "cognomen_female_2cbca3bc05b9",
+            "cognomen_female_9517ba9e2b76",
+            "cognomen_female_a06c40e518ab",
+            "cognomen_female_82606b5e37e1",
+            "cognomen_female_8b55ab49138c",
+            "cognomen_female_9b3962beeddd",
+            "cognomen_female_a1375a961da3",
+            "cognomen_female_fbd2ff2d479e",
+            "cognomen_female_96cea649fcfc",
+            "cognomen_female_46212985c751",
+            "cognomen_female_e948b44dd9cd",
+            "cognomen_female_1d31437c88c6",
+            "cognomen_female_f34ae8ae9e21"
+          ],
+          "weighting": "uniform_unique_entries"
+        },
+        "roman_female/full_name": {
+          "mode": "weighted",
+          "entries": [
+            {
+              "weight": 1,
+              "value": {
+                "op": "concat",
+                "items": [
+                  {
+                    "op": "roll",
+                    "table": "roman_female/nomen",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  },
+                  {
+                    "op": "text",
+                    "value": " "
+                  },
+                  {
+                    "op": "roll",
+                    "table": "roman_female/cognomen",
+                    "count": {
+                      "op": "number",
+                      "value": 1
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "sources": [
+    {
+      "file": "latin_roman_source.json",
+      "sha256": "bc337c6a90f4ed15b1f48b1f05ba9caa7328ed0b1f169be407a5771ed18f08b8",
+      "encoding": "UTF-8",
+      "references": [
+        {
+          "id": "georges",
+          "title": "A Simple Guide to Imperial Roman Names",
+          "author": "Ursula Georges",
+          "url": "https://yarntheory.net/ursulageorges/names/roman.html",
+          "accessed": "2026-11-02"
+        },
+        {
+          "id": "mcmanus",
+          "title": "Roman Nomenclature",
+          "author": "Barbara F. McManus",
+          "url": "https://vroma.org/vromans/bmcmanus/roman_names.html",
+          "accessed": "2026-11-02"
+        }
+      ]
+    }
+  ],
+  "notes": [
+    "For the selected nomina and cognomina only, replace final us with a. Derived forms are grammatical, not individually verified attestations.",
+    "Use Iulius/Iulia and Iustus/Iusta consistently; do not duplicate J spellings as extra weighted entries.",
+    "Uniform selection is a game convention, not a claim about historical frequency.",
+    "Generated full names are fictional combinations, not attested historical people or verified family branches.",
+    "This limited citizen profile does not model adoption, inherited family restrictions, filiation, voting tribes, enslaved people, or every provincial and period-specific naming practice.",
+    "Cognomina may be Latin names of non-Latin origin; this starter selects Latin-form elements and does not claim to exhaust Roman usage."
+  ]
+}

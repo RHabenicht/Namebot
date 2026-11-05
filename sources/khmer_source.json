@@ -1,0 +1,471 @@
+{
+  "id": "khmer",
+  "label": "Cambodian / Khmer",
+  "language": "km",
+  "kind": "language",
+  "scope": "Romanized Khmer naming sample; not all Cambodian ethnic naming traditions",
+  "order": [
+    "family",
+    "given"
+  ],
+  "references": [
+    {
+      "id": "khmer_elements",
+      "title": "Wikipedia contributors: Cambodian name",
+      "url": "https://en.wikipedia.org/wiki/Cambodian_name",
+      "accessed": "2026-11-02",
+      "coverage": "Selected entries in common-spellings columns; no gender is inferred from this table.",
+      "license": "CC BY-SA 4.0; selected name facts only; attribution and source links retained"
+    },
+    {
+      "id": "khmer_conventions",
+      "title": "Nina Evason: Cambodian Naming, Cultural Atlas",
+      "url": "https://theculturalatlas.org/cambodian-culture/cambodian-culture-naming",
+      "accessed": "2026-11-02",
+      "coverage": "Name order and explicitly gender-labelled examples"
+    }
+  ],
+  "notes": [
+    "Family element precedes given element. Family elements can be inherited surnames or patronymics; the generator does not infer genealogy.",
+    "Romanized spellings are retained as selected, without invented Khmer-script transcriptions or translations.",
+    "Most given-name entries have unknown gender in the source table. Empty genders means unclassified, not verified unisex. Gender-filtered output excludes these entries."
+  ],
+  "records": [
+    {
+      "value": "Botum",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chantha",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chea",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Cheata",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chheng",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chhieng",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Dara",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Leng",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Narong",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Nimol",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Phuong",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Saroeun",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Srey",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Sorn",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Borey",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chenda",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chhuon",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Khan",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Kosal",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Kunthea",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Lay",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Mali",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Mey",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Nary",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Panha",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Piseth",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Phalla",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Pheareak",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Phirun",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Pov",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Rasmey",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Rith",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Ry",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Sambath",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Samphors",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Samnang",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Sarith",
+      "role": "given",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Sopheap",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "khmer_conventions"
+    },
+    {
+      "value": "Polin",
+      "role": "given",
+      "genders": [
+        "male"
+      ],
+      "reference": "khmer_conventions"
+    },
+    {
+      "value": "Thravy",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "khmer_conventions"
+    },
+    {
+      "value": "Bopha",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "khmer_conventions"
+    },
+    {
+      "value": "Chantrea",
+      "role": "given",
+      "genders": [
+        "female"
+      ],
+      "reference": "khmer_conventions"
+    },
+    {
+      "value": "Koy",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Keo",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Kang",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Khat",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Khiev",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Kim",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chan",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chap",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Cheng",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chhay",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chea",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Cheam",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Chin",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Duong",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Dith",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Than",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Tep",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Prak",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Bun",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Pen",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Phan",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Meas",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Mao",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Ros",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Lim",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Sok",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Seng",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Heng",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    },
+    {
+      "value": "Long",
+      "role": "family",
+      "genders": [],
+      "reference": "khmer_elements"
+    }
+  ]
+}
