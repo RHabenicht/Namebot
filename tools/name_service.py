@@ -11,6 +11,28 @@ PUBLIC_SETS = {
     'scottish': ('scottish', 'Scottish'),
 }
 
+# Credits apply to the imported tables, including mixed-source sets.
+SOURCE_CREDITS = {
+    'ancient_greek': 'Gurth',
+    'basque': 'Gurth',
+    'egyptian_legacy': 'Gurth',
+    'finnish': 'Gurth',
+    'gangs': 'Gurth',
+    'halfling': 'Gurth',
+    'hindi_legacy': 'Gurth',
+    'indian_legacy': 'Gurth',
+    'native_american_legacy': 'Gurth',
+    'danish': 'Gurth and Joel Crook',
+    'dutch': 'Gurth and Joel Crook',
+    'english': 'Gurth and Joel Crook',
+    'german': 'Gurth and Joel Crook',
+    'irish': 'Gurth and Joel Crook',
+    'italian': 'Gurth and Joel Crook',
+    'japanese': 'Gurth and Joel Crook',
+    'technical_english': 'Joel Crook',
+    'latin': 'Christian Schwietzke and Nightlife',
+}
+
 class NameService:
     def __init__(self):
         self.resources = {}
@@ -79,4 +101,8 @@ class NameService:
 
     def options(self, resource):
         r = self._get_resource(resource)
-        return r['label']+'\nPrograms: '+', '.join(p['id'] for p in r['programs'])+'\nProfiles: '+(', '.join(p['id'] for p in r['profiles']) or 'none')
+        credit = SOURCE_CREDITS.get(r['id'])
+        heading = r['label']
+        if credit:
+            heading += '\nCredit: ' + credit
+        return heading+'\nPrograms: '+', '.join(p['id'] for p in r['programs'])+'\nProfiles: '+(', '.join(p['id'] for p in r['profiles']) or 'none')
