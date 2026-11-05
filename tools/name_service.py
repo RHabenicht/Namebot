@@ -85,7 +85,11 @@ class NameService:
             elif len(programs)==1:
                 program=next(iter(programs))
             else:
-                raise GenerationError('Choose a program or profile using /name_options.')
+                choices = 'Programs: ' + ', '.join(programs)
+                profiles = [p['id'] for p in r['profiles'] if p['id'] != 'default']
+                if profiles:
+                    choices += '\nProfiles: ' + ', '.join(profiles)
+                raise GenerationError('Choose a program or profile.\n' + choices)
         if program not in programs:
             raise GenerationError('Unknown program for this set. Use /name_options.')
         p=programs[program]

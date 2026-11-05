@@ -56,6 +56,15 @@ def make_client(service=None):
             return
         await send(interaction,'\n'.join(f'{i}. {name}' for i,name in enumerate(results,1)),private)
 
+    @client.tree.command(name='name_help',description='Learn how to use Namebot.')
+    async def name_help(interaction:discord.Interaction):
+        await send(interaction,(
+            'Use /name_sets to browse the naming lists.\n'
+            'Use /names and pick a set. For example, /names set:geordi_gizmo_company count:5.\n'
+            'Use /name_options with a set to see its programs, profiles, and source credit.\n'
+            'Set private to True if you want only yourself to see the results.'
+        ),True)
+
     @client.tree.command(name='name_sets',description='List available naming sets.')
     async def name_sets(interaction:discord.Interaction):
         await send(interaction,'\n'.join(resource['label'] for resource in service.resources.values()),True)

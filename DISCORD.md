@@ -2,9 +2,11 @@
 
 ## Quick start
 
+Run `/name_help` in Discord for a private walkthrough and a command example.
+
 1. Type `/name_sets`, select the Namebot command from Discord’s suggestions, and send it. Namebot replies privately with the available lists.
 2. Type `/names`, select the Namebot command, and use **set** to pick a list. Use **count** to generate 1–20 results. The default is one.
-3. If you need to choose a **profile** or **program**, run `/name_options` with the same set. It shows the available choices and any source credit listed for that set. Choose either a profile or a program for a given roll.
+3. If a set requires a **profile** or **program**, Namebot shows the available choices when you leave both blank. To see the choices and source credits ahead of time, run `/name_options` with the same set. It shows the available choices and any source credit listed for that set. Choose either a profile or a program for a given roll.
 4. Set **private** to **True** if you want the generated names visible only to you. Results are posted in the channel by default.
 
 | To generate | Example |

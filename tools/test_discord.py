@@ -25,7 +25,7 @@ class AdapterTests(unittest.IsolatedAsyncioTestCase):
     def interaction(self):
         return SimpleNamespace(response=SimpleNamespace(send_message=AsyncMock(),is_done=lambda:False),namespace=SimpleNamespace(set='english'))
     async def test_command_payload(self):
-        self.assertEqual({c.name for c in self.client.tree.get_commands()},{'names','name_sets','name_options'})
+        self.assertEqual({c.name for c in self.client.tree.get_commands()},{'names','name_sets','name_options','name_help'})
         payload=self.client.tree.get_command('names').to_dict(self.client.tree)
         options={o['name']:o for o in payload['options']}
         self.assertTrue(options['set']['autocomplete'])
@@ -39,6 +39,14 @@ class AdapterTests(unittest.IsolatedAsyncioTestCase):
         self.assertFalse(kwargs['allowed_mentions'].everyone)
         i=self.interaction()
         await self.client.tree.get_command('names').callback(i,'missing')
+        self.assertTrue(i.response.send_message.call_args.kwargs['ephemeral'])
+        i=self.interaction()
+        await self.client.tree.get_command('names').callback(i,'dutch')
+        self.assertIn('Programs:',i.response.send_message.call_args.args[0])
+        self.assertTrue(i.response.send_message.call_args.kwargs['ephemeral'])
+        i=self.interaction()
+        await self.client.tree.get_command('name_help').callback(i)
+        self.assertIn('/name_options',i.response.send_message.call_args.args[0])
         self.assertTrue(i.response.send_message.call_args.kwargs['ephemeral'])
         for name,args in [('name_sets',()),('name_options',('english',))]:
             i=self.interaction();await self.client.tree.get_command(name).callback(i,*args)
