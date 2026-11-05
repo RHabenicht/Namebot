@@ -29,3 +29,14 @@ The data and references passed structural validation. A working Python command-l
 The rejected `Latin.nam` has been removed from the bundled source archive and converter. `sources/latin_roman_source.json` now supplies `data/latin.json`; `tools/build_roman_latin.py` rebuilds it. The resource has 104 component records: 16 masculine praenomina, 24 masculine and 24 feminine nomina, and 20 masculine and 20 feminine cognomina. See `LATIN.md` for scope, sources, and usage.
 
 Personal NAM lists support full-name composition, gender selection, and multiple given names. English regional profiles are selectable directly. See RUNNING.md for examples.
+
+## Name source credits
+
+Names were collected from open sources found online. The credits below cover the imported tables.
+
+| Sets | Credit |
+| --- | --- |
+| Ancient Greek, Basque, Egyptian, Finnish, Gang names, Halfling, Hindi, Indian, Native American | Gurth |
+| Danish, Dutch, English, German, Irish, Italian, Japanese | Gurth and Joel Crook |
+| Geordi Gizmo Company and Geordi Gizmo Technical | Joel Crook |
+| Roman Latin | Christian Schwietzke and Nightlife |
