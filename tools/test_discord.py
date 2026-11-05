@@ -46,7 +46,7 @@ class AdapterTests(unittest.IsolatedAsyncioTestCase):
         self.assertTrue(i.response.send_message.call_args.kwargs['ephemeral'])
         i=self.interaction()
         await self.client.tree.get_command('name_help').callback(i)
-        self.assertIn('/name_options',i.response.send_message.call_args.args[0])
+        self.assertIn('/name_options',i.response.send_message.call_args.args[0].replace('\\', ''))
         self.assertTrue(i.response.send_message.call_args.kwargs['ephemeral'])
         for name,args in [('name_sets',()),('name_options',('english',))]:
             i=self.interaction();await self.client.tree.get_command(name).callback(i,*args)
