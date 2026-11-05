@@ -4,6 +4,7 @@ from namebot import ROOT, Engine, GenerationError
 
 # Keep source IDs in the data and use shorter names in Discord.
 PUBLIC_SETS = {
+    'technical_english': ('technical_english', 'Geordi Gizmo'),
     'egyptian_legacy': ('egyptian', 'Egyptian'),
     'hindi_legacy': ('hindi', 'Hindi'),
     'indian_legacy': ('indian', 'Indian'),
