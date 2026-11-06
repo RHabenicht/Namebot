@@ -2,6 +2,12 @@
 
 Namebot generates names for Shadowrun characters, gangs, and businesses. Pick a language, a naming tradition, or a generator such as Geordi Gizmo.
 
+## Install on Discord
+
+[Add Namebot to Discord](https://discord.com/oauth2/authorize?client_id=1567891274084786249)
+
+Choose **Add to Server** and select your server.
+
 ## Use Namebot
 
 - Find the slash commands, examples, and self-hosting steps in the [Discord guide](DISCORD.md).
