@@ -1,69 +1,71 @@
 # Namebot JSON format, version 1
 
-Every active data resource is UTF-8 JSON with `"format": "sr-namebot/1"`. JSON is a language-independent structured format; the data can be read by Python or JavaScript. Text values use Unicode NFC normalization.
+Each resource is a UTF-8 JSON file with `"format": "sr-namebot/1"`. Text values use Unicode NFC normalization.
 
 ## Resource fields
 
 | Field | Meaning |
 | --- | --- |
-| `id` | Stable resource identifier, matching its filename. |
+| `id` | Stable resource ID that matches its filename. |
 | `label` | Display name of the language, naming tradition, or category. |
-| `language` | Language tag; `und` means the source label does not establish a specific language. |
+| `language` | Language tag. Use `und` when the source label leaves the language unspecified. |
 | `kind` | `language` or `category`. |
 | `status` | `imported` or `needs_source_data`. |
 | `profiles` | Regional choices, selection tags, name order, and readiness. |
-| `pools` | Unique name or component records, separated by role. |
-| `programs` | Generator instructions expressed as structured JSON. |
+| `pools` | Unique names or components grouped by role. |
+| `programs` | Generator rules stored as JSON nodes. |
 | `sources` | Source filenames, encodings, hashes, and retained settings. |
 
 ## Pool records
 
 Each record has `id`, `value`, `weight`, `genders`, `profiles`, `sources`, `variants`, and `source_occurrences`.
 
-The principal person-name pools are `given` and `family`. Gender values retain the source's categories. A given name present in both source categories is stored once with both tags. Additional pools hold nicknames, additions, and generator components.
+The `given` and `family` pools hold given names and surnames. A given name present in two source gender categories is stored once with both tags. Other pools hold nicknames, additions, and generator components.
 
-Person-name selection uses each eligible record once. `source_occurrences` records how many source rows contributed; it is provenance, not an implicit frequency weight. Regional eligibility uses `profiles`. Within English, `shared` records are available to all profiles; American-only records also carry `american`.
+The renderer gives each eligible person-name record the same chance of selection. `source_occurrences` counts the contributing source rows. All English profiles can use records tagged `shared`. The American profile also uses records tagged `american`.
 
-An empty value can be intentional, such as an absent surname or an optional gang-name component. It is retained rather than treated as a missing record.
+A blank value can be a valid entry, such as an optional gang-name component or an absent surname.
 
 ## Programs and table modes
 
-A program has its own ID, prompts, definitions, entrypoint, and table map. References are qualified as `program_id/table_name`, preventing different files' identically named tables from colliding.
+A program has an ID, prompts, definitions, an entrypoint, and a table map. Use `program_id/table_name` to refer to a table. Two programs can then use the same table name.
 
 | Table mode | Contents |
 | --- | --- |
-| `pool` | Unique record IDs from a named pool; uniform selection. |
+| `pool` | Unique record IDs from a named pool, drawn with equal probability. |
 | `dictionary` | Original keys mapped to pool record IDs. |
 | `lookup` | Non-overlapping inclusive numeric ranges and result nodes. |
 | `weighted` | Result nodes with positive integer weights. |
 
-Native operation nodes have an `op` field:
+Every operation node has an `op` field.
 
 | Operation | Purpose |
 | --- | --- |
 | `text`, `number` | Literal values. |
 | `variable` | Read a named variable. |
-| `dice`, `add` | Random integer dice expressions and arithmetic addition. |
-| `concat` | Concatenate child values in order. |
-| `choice` | Choose between child values. |
-| `roll`, `deck` | Random table selection, repeated selection, or a pick without replacement. |
-| `lookup` | Read a dictionary/table by key. |
-| `compare`, `if` | Conditional selection. |
-| `transform` | `proper` or `lower` text transformation. |
+| `dice`, `add` | Roll random integers or add values. |
+| `concat` | Join child values in order. |
+| `choice` | Choose among child values. |
+| `roll`, `deck` | Draw from a table, repeat a draw, or draw without replacement. |
+| `lookup` | Read a dictionary or table by key. |
+| `compare`, `if` | Select a result based on a condition. |
+| `transform` | Apply `proper` or `lower` to text. |
 
-Table `set` bindings execute before the result is selected. Program definitions and prompts establish their variables before entrypoint execution. The native interpreter is tools/namebot.py. Its assignment whitespace, transforms and deck semantics are documented in RUNNING.md. Exact parity with the original engine remains unverified.
+Program definitions and prompts set their variables before the entrypoint runs. A table’s `set` bindings run before result selection. See how `tools/namebot.py` handles whitespace, case, and decks. [Engine contract](RUNNING.md#engine-contract)
 
 ## Duplicate policy
 
-Matching uses NFC, normalized whitespace, lowercase matching keys, and straight/curly apostrophe equivalence. Display spelling and alternative forms remain available. No accents are removed and no transliteration is used for matching. Different cultures and different semantic pools remain independent.
+Match records within the same resource and pool. Normalize to NFC, ignore case, trim and collapse whitespace, and treat straight and curly apostrophes as equivalent. Keep accents, distinct spellings, and alternative display forms.
 
-Duplicate names and literal components become one pool record. Repeated dictionary values can share one record while keeping all keys. Identical procedural alternatives become one weighted alternative with their weights added.
-
-## References
-
-- JSON: https://www.rfc-editor.org/rfc/rfc8259
-- Unicode normalization: https://www.unicode.org/reports/tr15/
+Duplicate names and literal components share one record. Dictionary keys can point to the same record. For identical procedural alternatives, add their weights and keep one alternative.
 
 ## Sourced starter metadata
 
-Optional `evidence` records identify a reference and observed usage. Empty `genders` means unspecified, not unisex. Regional evidence can include year and geographic coverage. `locale` identifies a regional naming context independently from linguistic origin. Profiles with `name_order` and `program` select an explicit ordered program; the Filipino maternal and paternal slots both draw from the family pool. English `regional_sample_programs` return only dated regional given names.
+Optional `evidence` entries record a reference and the usage it documents. An empty `genders` list means the source left usage unspecified. Regional evidence can include the year and area covered. `locale` identifies a regional naming context independently of linguistic origin.
+
+A profile with `name_order` and `program` selects a program with an explicit order. The Filipino maternal and paternal slots both draw from the family pool. English `regional_sample_programs` return given names from dated regional lists.
+
+## References
+
+- [JSON specification](https://www.rfc-editor.org/rfc/rfc8259)
+- [Unicode normalization](https://www.unicode.org/reports/tr15/)

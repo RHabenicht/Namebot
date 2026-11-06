@@ -1,13 +1,13 @@
-# SR1e-3e Namebot on Discord
+# Namebot on Discord
 
 ## Quick start
 
-Run `/name_help` in Discord for a private walkthrough and a command example.
+1. Run `/name_sets` to see the available lists. Select the command under Namebot if Discord shows more than one match.
+2. Run `/names` and choose a `set`. Set `count` from 1 to 20. The default is one.
+3. Run `/name_options` with the same set to see the available programs and profiles, along with any source credit. If the set needs a choice, pick one `profile` or `program`.
+4. Set `private` to `True` for a reply only you can see. By default `/names` replies in the channel.
 
-1. Type `/name_sets`, select the Namebot command from Discord’s suggestions, and send it. Namebot replies privately with the available lists.
-2. Type `/names`, select the Namebot command, and use **set** to pick a list. Use **count** to generate 1–20 results. The default is one.
-3. If a set requires a **profile** or **program**, Namebot shows the available choices when you leave both blank. To see the choices and source credits ahead of time, run `/name_options` with the same set. It shows the available choices and any source credit listed for that set. Choose either a profile or a program for a given roll.
-4. Set **private** to **True** if you want the generated names visible only to you. Results are posted in the channel by default.
+`/name_help` gives you a private command example. Use `gender` when the selected set or program supports it. For a program with its own gender rules, leave that option blank. Long replies arrive as a UTF-8 text file.
 
 | To generate | Example |
 | --- | --- |
@@ -17,42 +17,40 @@ Run `/name_help` in Discord for a private walkthrough and a command example.
 | Five company names | `/names set:geordi_gizmo_company count:5` |
 | Five technical names | `/names set:geordi_gizmo_technical count:5` |
 
-Both Geordi Gizmo sets are by Joel Crook. The [source credits](README.md#name-source-credits) are also listed in the README.
+Both Geordi Gizmo sets come from Joel Crook. [Name source credits](README.md#name-source-credits)
 
-Use **gender** when the selected set or program supports it. If a program has its own gender rules, pick the program and leave **gender** blank. Long results arrive as a UTF-8 text attachment.
+## Host your own copy
 
-## Set up Namebot
-
-1. Create an **SR1e-3e Namebot** application at https://discord.com/developers/applications and obtain its bot token.
-2. Add Namebot to your Discord server with the `bot` and `applications.commands` scopes. Allow View Channels, Send Messages and Attach Files in the intended channel. Administrator permission is unnecessary.
-3. Configure the environment variables below in the hosting service's private settings. Never put the token in source files or send it in chat.
-4. Install dependencies and run from the extracted package directory:
+1. Create a Namebot application and get its bot token. [Discord Developer Portal](https://discord.com/developers/applications)
+2. Install your copy with the `bot` and `applications.commands` scopes. Grant **View Channels**, **Send Messages**, and **Attach Files** in the channels where it will run.
+3. Set the variables below in your host’s private environment settings.
+4. Run these commands from the project folder.
 
 ```sh
 python -m pip install -r requirements.txt
 python -X utf8 tools/discord_bot.py
 ```
 
-| Variable | Purpose |
+| Variable | Use |
 | --- | --- |
-| `DISCORD_TOKEN` | Required secret token for the Namebot application. |
-| `DISCORD_GUILD_ID` | Your Discord server ID used when synchronizing server commands. |
-| `SYNC_COMMANDS` | Set to `1` for a command-registration startup; otherwise leave unset or `0`. |
+| `DISCORD_TOKEN` | Bot token for your Discord application. Required. |
+| `DISCORD_GUILD_ID` | Server ID for a server-only command registration. Leave unset for global registration. |
+| `SYNC_COMMANDS` | Set to `1` for a startup that registers commands. Set to `0` or leave unset for normal startup. |
 
-Set `DISCORD_GUILD_ID` and `SYNC_COMMANDS=1` for the initial registration on your server. After successful registration, set `SYNC_COMMANDS=0` and restart normally. A startup with synchronization enabled and no guild ID registers commands globally. Changing scope does not remove commands previously registered in another scope.
+For a test server, start with `SYNC_COMMANDS=1` and `DISCORD_GUILD_ID` set to the server ID. For global registration, start with `SYNC_COMMANDS=1` and leave `DISCORD_GUILD_ID` unset. After registration succeeds, restart with `SYNC_COMMANDS=0`. Discord stores server and global registrations separately.
 
-The included Procfile defines a worker start command. The bot requires a continuously running Python process and outbound Discord connectivity; it does not serve an HTTP page. No database is required. Message Content and other privileged intents are not enabled. This gateway-based adapter does not need an Interactions Endpoint URL.
+The `Procfile` starts Namebot as a worker. Keep the worker running with outbound access to Discord. It reads the local JSON data and connects through the Discord Gateway. Leave the Interactions Endpoint URL blank and privileged intents off.
 
-## Local verification
+## Check a deployment
+
+In your test server, run `/name_sets`, `/name_options`, and a few `/names` examples. Check that Discord suggests the available lists, that each command returns the requested count, and that private replies are visible only to you. An invalid program should return a private error.
+
+Run the offline adapter tests from the project folder.
 
 ```sh
 python -X utf8 tools/test_discord.py
 ```
 
-Tests use the real Discord SDK with mocked responses and synchronization, covering command payloads, autocomplete limits, name-generation routes, invalid selections, private errors, mention suppression and attachment output. No test sends a Discord message or registers a command. Existing runtime and renderer tests remain available in RUNNING.md.
+The offline tests use the Discord SDK with mocked replies and command registration. They cover autocomplete, valid and invalid requests, private replies, mention suppression, and attachments. Live server testing is pending in the project’s test record. [Validation results](VALIDATION.json)
 
-## Live test after installation
-
-Run `/name_sets`, `/name_options`, and the examples above in your Discord server. Confirm private results, public results, correct name counts and autocomplete. Try an invalid program and verify it returns a private explanation. This live server test is still outstanding.
-
-SDK reference: https://discordpy.readthedocs.io/en/v2.6.4/interactions/api.html
+[Generator tests](RUNNING.md#verification) · [Discord SDK reference](https://discordpy.readthedocs.io/en/v2.6.4/interactions/api.html)
